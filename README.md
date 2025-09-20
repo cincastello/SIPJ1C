@@ -1,7 +1,6 @@
-# Curso de Machine Learning
+# Curs de Sistemes Informàtics
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
-
+Aquest repositori conté el material del curst Sistemes informàtics fet per Cinta Cadtelló.
 ## Contenido
 
 - Índice y enlaces a las unidades del curso.
