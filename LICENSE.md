@@ -1,4 +1,4 @@
-# Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 3.0 España (CC BY-NC-SA 3.0)
+# Licencia Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)
 
 Este trabajo está licenciado bajo la [ttribution-NonCommercial-ShareAlike 4.0 International.](To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
