@@ -3,15 +3,14 @@ layout: default
 title: "Cursos de Sistemes informàtics"
 ---
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Aquest repositòri conté el mateiral del curs Sistemes informàtics desarollat per Cinta Castelló.
 
-- Índice y enlaces a las unidades del curso.
-- Recursos en formato PDF, vídeos, y Google Colab.
-- Código y ejemplos prácticos.
+- Índex.
+  
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md).
 
 ## Contenido del curso
 
