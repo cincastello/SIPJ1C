@@ -3,7 +3,7 @@
 Aquest repositori conté el material del curst Sistemes informàtics fet per Cinta Castelló.
 ## Contenido
 
-- Índice y enlaces a las unidades del curso.
+- Índex
 - Recursos en formato PDF, vídeos, y Google Colab.
 - Código y ejemplos prácticos.
 
@@ -15,10 +15,10 @@ https://mireiaconsarnau.github.io/machine_learning/
 
 ## Licencia
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md).
 
 
 ---
 
-© 2025 Mireia Consarnau
+© 2025 Cinta Castelló
 
