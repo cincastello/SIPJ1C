@@ -11,8 +11,7 @@ Aquest repositori conté el material del curst Sistemes informàtics fet per Cin
 
 Este repositorio está preparado para ser publicado con GitHub Pages.  
 Puedes ver la versión web pública en:  
-https://mireiaconsarnau.github.io/machine_learning/
-
+(https://cincastello.github.io/SIPJ1C/)
 ## Licencia
 
 El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md).
