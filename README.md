@@ -1,6 +1,6 @@
 # Curs de Sistemes Informàtics
 
-Aquest repositori conté el material del curst Sistemes informàtics fet per Cinta Cadtelló.
+Aquest repositori conté el material del curst Sistemes informàtics fet per Cinta Castelló.
 ## Contenido
 
 - Índice y enlaces a las unidades del curso.
