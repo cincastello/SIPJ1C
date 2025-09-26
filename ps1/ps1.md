@@ -34,7 +34,11 @@ Sel·leccionem install Ubuntu.
 A contiuació ens apareixera un lloc per registrar-nos, on haurem de ficar-nos un usuari i una contrasenya. Ho fem i polsem instal·lar.
 
 
-<img width="860" height="625" alt="image" src="https://github.com/user-attachments/assets/1c125b26-0539-4463-a847-e0b54eccd809" />
+Per poder fer les particions seleccionem free space i veurem que en s deixa polsar el signe +, ho fem i allí seleccionem el que natros necessitem.
+
+Per exemple, jo he usat el Ext4journaling file system per a totes les particions. I, a partir d'allí he fet 3 particions: /(20GB), home(16GB), boot(4GB) i swap(2GB).
+
+<img width="860" height="625" alt="image" src="https://github.com/user-attachments/assets/43957993-95d5-44ed-ae4c-4c986ac3fe72" />
 
 
 
