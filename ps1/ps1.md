@@ -26,6 +26,7 @@ Implementació dels requisits mínims:
 
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/21e7d611-4ab8-4bad-b075-ea598e97f168" />
 
+
 A contiuació ens apareixera un lloc per registrar-nos, on haurem de ficar-nos un usuari i una contrasenya. Ho fem i polsem instal·lar.
 
 
