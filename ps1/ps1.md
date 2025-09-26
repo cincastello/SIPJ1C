@@ -15,6 +15,9 @@ Implementació dels requisits mínims:
 
 <img width="722" height="738" alt="image" src="https://github.com/user-attachments/assets/32f24752-c24f-4911-a371-45c6a3030bff" />
 
+
+## Procés d'instal·lació: 
+
 <img width="725" height="485" alt="image" src="https://github.com/user-attachments/assets/d93a2475-3d94-4daa-a77c-04e85f5af109" />
 
 
