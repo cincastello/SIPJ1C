@@ -21,6 +21,7 @@ Implementació dels requisits mínims:
 <img width="725" height="485" alt="image" src="https://github.com/user-attachments/assets/d93a2475-3d94-4daa-a77c-04e85f5af109" />
 
 <img width="860" height="625" alt="image" src="https://github.com/user-attachments/assets/64124d3a-74f4-48c9-b5b7-33b6b376be90" />
+
 Sel·leccionem install Ubuntu.
 
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/850ca355-aeb7-424f-ba3d-776aca5bf3e4" />
