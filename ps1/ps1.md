@@ -18,7 +18,6 @@ A continuació explicaré el que hem pogut observar en la imatge anterior sobre 
 
 En resum, ninguna és la principal, no obstant la més usada de les ja mostrades seria la GPL.
 
-captura pantalla i explica
 ## Instal·lacions duals i Gestors d'arrencada
 ## Particions i punts de restauració
 ## Cofiguració bàsica de la xarxa
