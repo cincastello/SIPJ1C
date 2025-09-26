@@ -20,6 +20,17 @@ Implementació dels requisits mínims:
 
 <img width="725" height="485" alt="image" src="https://github.com/user-attachments/assets/d93a2475-3d94-4daa-a77c-04e85f5af109" />
 
+<img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/850ca355-aeb7-424f-ba3d-776aca5bf3e4" />
+
+<img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/e825fdbb-7bc6-4e8f-9664-217cb7ce38ac" />
+
+<img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/21e7d611-4ab8-4bad-b075-ea598e97f168" />
+
+A contiuació ens apareixera un lloc per registrar-nos, on haurem de ficar-nos un usuari i una contrasenya. Ho fem i polsem instal·lar.
+
+
+
+
 
 ### Llicenciament
 
