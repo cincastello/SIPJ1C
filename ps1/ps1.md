@@ -33,10 +33,10 @@ A contiuació ens apareixera un lloc per registrar-nos, on haurem de ficar-nos u
 
 
 
+
 ### Llicenciament
 
 <img width="817" height="459" alt="image" src="https://github.com/user-attachments/assets/5fa5c9b1-1130-4e93-8837-62a1e112e7b1" />
-
 A continuació explicaré el que hem pogut observar en la imatge anterior sobre les llicències típiques d'Ubuntu i quines són:
 - GPL = és la més usada a Linux, ja que obliga a compartir el codi en cas de distribució.
 - LGPL = és més flexible que l'anterior però més sensible per a les biblioteques.
