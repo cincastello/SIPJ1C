@@ -34,6 +34,9 @@ Sel·leccionem install Ubuntu.
 A contiuació ens apareixera un lloc per registrar-nos, on haurem de ficar-nos un usuari i una contrasenya. Ho fem i polsem instal·lar.
 
 
+<img width="860" height="625" alt="image" src="https://github.com/user-attachments/assets/1c125b26-0539-4463-a847-e0b54eccd809" />
+
+
 
 
 
