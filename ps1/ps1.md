@@ -41,6 +41,10 @@ Per exemple, jo he usat el Ext4journaling file system per a totes les particions
 <img width="860" height="625" alt="image" src="https://github.com/user-attachments/assets/43957993-95d5-44ed-ae4c-4c986ac3fe72" />
 
 
+I ja ho tenim instal·lat:
+
+
+
 
 
 
