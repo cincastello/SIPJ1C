@@ -48,7 +48,19 @@ Polsem el botó que posa restart i esperem a que ens digui que polsem enter i ho
 
 
 
-Seguidament per poder fer les particions seleccionem free space i veurem que en s deixa polsar el signe +, ho fem i allí seleccionem el que natros necessitem.
+
+Seguidament per poder fer les particions anem als 3 punts de baix a l'esquerra i a la barra de búsqedes escrivim 'disk' i obrim aquest:
+<img width="853" height="254" alt="image" src="https://github.com/user-attachments/assets/78e8a083-59d4-4483-bff0-9daea8040427" />
+
+Veurem això:
+<img width="910" height="619" alt="image" src="https://github.com/user-attachments/assets/8df18c8c-4755-433a-87e3-3ae1af116744" />
+
+Aquí polsem: <img width="101" height="68" alt="image" src="https://github.com/user-attachments/assets/dba41830-ecd9-4d50-ae1f-e9296f84caca" /> 
+I seleccionem crear partition image.
+
+
+
+seleccionem free space i veurem que en s deixa polsar el signe +, ho fem i allí seleccionem el que natros necessitem.
 
 Per exemple, jo he usat el Ext4journaling file system per a totes les particions. I, a partir d'allí he fet 3 particions: /(20GB: per tenir prou espai per al sistema i programes), home(16GB: perquè estaran totes les dades nostres), boot(4GB, conté el Kernel i el arrancada) i swap(2GB: per la memòria virtual)(Aquí no he usat el Ext4journaling file system ja que he usat el swap area per poder tenir-lo).
 
