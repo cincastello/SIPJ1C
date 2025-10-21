@@ -55,6 +55,8 @@ I ja tenim Ubuntu instal·lat.
 <img width="1294" height="804" alt="image" src="https://github.com/user-attachments/assets/0080f39e-c1f1-4d26-a05b-3f6d6ebf2b2c" />
 
 
+
+
 Ara anem a instal·lar windows.
 
 
