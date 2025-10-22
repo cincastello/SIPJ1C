@@ -63,6 +63,7 @@ Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img w
 
 
 
+
 Tanquem la màquina i la tornem a obrir mentra polsem el botó F12 per anar a la bios un altre cop.
 
 
