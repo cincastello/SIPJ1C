@@ -58,6 +58,9 @@ I ja tenim Ubuntu instal·lat.
 
 
 Ara anem a instal·lar windows.
+Seleccionem la nostra maquina i polsem aques botó verd:<img width="63" height="66" alt="image" src="https://github.com/user-attachments/assets/2b4a6173-2dde-4381-ae6e-3ba6c8825a39" />
+
+
 Tanquem la màquina i la tornem a obrir mentra polsem el botó F12 per anar a la bios un altre cop.
 
 
