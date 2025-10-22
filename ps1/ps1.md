@@ -58,7 +58,7 @@ I ja tenim Ubuntu instal·lat.
 
 
 Ara anem a instal·lar windows.
-Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="253" height="31" alt="image" src="https://github.com/user-attachments/assets/a51e680f-b6e4-48cf-ab7c-21ac584e8641" />  --> polsem la rodona blava amb el singne '+' de color ver i ens obrrà això: <img width="921" height="784" alt="image" src="https://github.com/user-attachments/assets/84d7a5e9-2c0c-4814-b345-f48148afbc6f" /> aquí el que farem serà polsar la rodoneta blava com abans i seleccionarem el windows 10 que ens haguem baixat anteriorment i polsarem choose.
+Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="253" height="31" alt="image" src="https://github.com/user-attachments/assets/a51e680f-b6e4-48cf-ab7c-21ac584e8641" />  --> polsem la rodona blava amb el singne '+' de color ver i ens obrirà això: <img width="921" height="784" alt="image" src="https://github.com/user-attachments/assets/84d7a5e9-2c0c-4814-b345-f48148afbc6f" /> aquí el que farem serà polsar la rodoneta blava com abans i seleccionarem el windows 10 que ens haguem baixat anteriorment i polsarem choose.
 
 
 
