@@ -58,7 +58,7 @@ I ja tenim Ubuntu instal·lat.
 
 
 Ara anem a instal·lar windows.
-
+Tanquem la màquina i la tornem a obrir mentra polsem el botó F12 per anar a la bios un altre cop.
 
 
 
