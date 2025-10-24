@@ -13,7 +13,7 @@ Requisits mínims:
 
 Implementació dels requisits mínims:
 
-<img width="595" height="593" alt="image" src="https://github.com/user-attachments/assets/50dfcf96-12f4-4719-a41a-1af310c8aa8c" />
+<img width="629" height="753" alt="image" src="https://github.com/user-attachments/assets/f05ebfbf-bc8d-4805-9523-cb9d30384967" />
 
 
 
@@ -27,8 +27,10 @@ Sel·leccionem install Ubuntu.
 
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/850ca355-aeb7-424f-ba3d-776aca5bf3e4" />
 
+Aquí elegim minimal installation i download updates while installing Ubuntu.
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/e825fdbb-7bc6-4e8f-9664-217cb7ce38ac" />
 
+Aquí sel·leccionem something else.
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/21e7d611-4ab8-4bad-b075-ea598e97f168" />
 
 <img width="826" height="596" alt="image" src="https://github.com/user-attachments/assets/1a381b59-32ed-4e14-89a3-d48338824b82" />
