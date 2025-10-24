@@ -59,14 +59,8 @@ I ja tenim Ubuntu instal·lat.
 
 
 
-title: "Instal·lació Ubuntu"
-Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="253" height="31" alt="image" src="https://github.com/user-attachments/assets/a51e680f-b6e4-48cf-ab7c-21ac584e8641" />  --> polsem la rodona blava amb el singne '+' de color ver i ens obrirà això: <img width="921" height="784" alt="image" src="https://github.com/user-attachments/assets/84d7a5e9-2c0c-4814-b345-f48148afbc6f" /> aquí el que farem serà polsar la rodoneta blava com abans i seleccionarem el windows 10 que ens haguem baixat anteriorment i polsarem choose.
-
-
-
-
-
-Tanquem la màquina i la tornem a obrir mentra polsem el botó F12 per anar a la bios un altre cop.
+## Instal·lació Ubuntu
+Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> --> guardem els canvi i tornem a la nostra màquina i l'obrim.
 
 
 
