@@ -60,34 +60,28 @@ I ja tenim Ubuntu instal·lat.
 
 
 ## Instal·lació Windows
-Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> --> guardem els canvi i tornem a la nostra màquina i l'obrim.
+Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> --> <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/5d74fd45-16e4-4b35-8cbb-8100b6692d15" /> --> polsem següent --> guardem els canvi i tornem a la nostra màquina i l'obrim.
 
 
 
 
 ## Instal·lació del grub
-Entrem a la màquina al Ubuntu i obrim terminal i seguim aquestes instruccions:
-<img width="879" height="804" alt="image" src="https://github.com/user-attachments/assets/3b0bd66e-b84a-4fd7-8a4e-053507fe1599" />
 
-
-El pas a pas es veu així:
-<img width="596" height="390" alt="image" src="https://github.com/user-attachments/assets/772ae890-be11-4d92-9869-d076363d4f1a" />
-<img width="596" height="390" alt="image" src="https://github.com/user-attachments/assets/723e76be-d8db-4ace-b5cc-8e2fc220549d" />
-<img width="603" height="372" alt="image" src="https://github.com/user-attachments/assets/24d786de-5595-4295-9673-4190ffc47e20" />
-<img width="420" height="22" alt="image" src="https://github.com/user-attachments/assets/6dfd377f-4794-4df6-a64e-ba170e2991f3" />
-<img width="534" height="155" alt="image" src="https://github.com/user-attachments/assets/d65ad63d-db4a-4513-acd0-10f83d5b056a" />
+Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
+<img width="506" height="86" alt="image" src="https://github.com/user-attachments/assets/53a42860-ed83-4e8c-b6de-89d6f6b2b125" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/b45bd0ab-4536-4606-9f35-eaf471bf65e1" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/064e37c0-fba0-461f-9a4d-559f8e48d35b" />
 
 Recordem el número que ens surt al sda del EFI per poder usar-lo a la següent comanda.
 
-<img width="604" height="16" alt="image" src="https://github.com/user-attachments/assets/80c15d18-b3c7-4180-ae3c-833bd0f7717f" />
-<img width="589" height="105" alt="image" src="https://github.com/user-attachments/assets/d5bbd70d-2b40-4f9d-a4d0-38deea10ee71" />
-<img width="437" height="17" alt="image" src="https://github.com/user-attachments/assets/ac746ab2-3a1f-4b37-87d3-59853744a7e2" />
-<img width="469" height="95" alt="image" src="https://github.com/user-attachments/assets/9ad55cd8-bd68-4b62-a436-a264f06d7e31" />
-<img width="568" height="301" alt="image" src="https://github.com/user-attachments/assets/bc2aa5de-0620-44d2-ac34-c14fe3847bed" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/1c26ad00-ac6f-469a-b1f2-c956696398cf" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/40394b15-d4ec-4d6d-8f78-aca7a7c7c3e6" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/97278e37-65ab-425a-810a-23e33fbda887" />
+<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/dd628150-76c5-4978-9c94-f4e1f55deeff" />
+
 
 Fem Ctrl X i intro per guardar i sortir.
 
-<img width="561" height="157" alt="image" src="https://github.com/user-attachments/assets/07ce5e77-2cf1-4ef5-bf0f-92521fccfb71" />
 
 
 
