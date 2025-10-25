@@ -68,6 +68,10 @@ Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img w
 ## Instal·lació del grub
 
 Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
+
+Primer que res fem sudo su i després nano /etc/default/grub
+
+
 <img width="506" height="86" alt="image" src="https://github.com/user-attachments/assets/53a42860-ed83-4e8c-b6de-89d6f6b2b125" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/b45bd0ab-4536-4606-9f35-eaf471bf65e1" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/064e37c0-fba0-461f-9a4d-559f8e48d35b" />
