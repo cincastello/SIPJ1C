@@ -74,6 +74,9 @@ En resum, ninguna és la principal, no obstant la més usada de les ja mostrades
 ## Instal·lacions duals i Gestors d'arrencada
 
 Instal·lació Windows
+
+
+
 Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> 
 
 Obrim la màquina, entrem al windows i fem el següent:
