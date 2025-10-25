@@ -98,6 +98,10 @@ Continuem, seleccionem l’idioma i teclat espanyol, omitim afegir algun teclat 
 Apaguem.
 
 
+
+
+
+
 El grub
 
 Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
