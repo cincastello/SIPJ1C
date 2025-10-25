@@ -71,9 +71,9 @@ Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
 
 Primer que res fem sudo su i després nano /etc/default/grub
 
-
-<img width="506" height="86" alt="image" src="https://github.com/user-attachments/assets/53a42860-ed83-4e8c-b6de-89d6f6b2b125" />
-<img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/b45bd0ab-4536-4606-9f35-eaf471bf65e1" />
+<img width="597" height="382" alt="image" src="https://github.com/user-attachments/assets/c1f1ead8-f565-4c20-9c3a-cc5a6f7185ac" />
+<img width="582" height="165" alt="image" src="https://github.com/user-attachments/assets/f3873c22-6b3b-4362-b192-130ed9ea990b" />
+<img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/d4e10e2d-7659-4515-bc17-c2cf66eaac6b" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/064e37c0-fba0-461f-9a4d-559f8e48d35b" />
 
 Recordem el número que ens surt al sda del EFI per poder usar-lo a la següent comanda.
