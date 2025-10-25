@@ -144,8 +144,37 @@ Creem una partició:
 
 <img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/5aea8707-161f-45e6-822a-26312502b70a" />
 
+Entrem al timeshift:
+
 <img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/44331f93-76b8-4a9e-8daf-3ba86b0ac11c" />
 
+<img width="657" height="270" alt="image" src="https://github.com/user-attachments/assets/3275e1db-04c0-4a8d-b831-d92db0b4c494" />
+
+<img width="658" height="713" alt="image" src="https://github.com/user-attachments/assets/c1e189d1-3a44-44e0-b13e-9d24a547d0cf" />
+
+<img width="658" height="713" alt="image" src="https://github.com/user-attachments/assets/587e2f49-2215-4004-aeb4-82ef7db47961" />
+
+Fem una còpia de l'usuari Cinta:
+
+<img width="658" height="713" alt="image" src="https://github.com/user-attachments/assets/fe446f52-7c5c-4f23-9ac5-843dc153b7be" />
+
+<img width="642" height="600" alt="image" src="https://github.com/user-attachments/assets/a0d44384-390a-4a61-9826-096bcc137270" />
+
+Obrim terminal:
+
+<img width="648" height="503" alt="image" src="https://github.com/user-attachments/assets/f5141023-e858-41a0-ab7d-1ac1689222e3" />
+
+Restarurem:
+
+<img width="666" height="547" alt="image" src="https://github.com/user-attachments/assets/cbf375c1-66ae-45b2-a16b-c1726f5027aa" />
+
+Si ho hem fet tot bé veurem, això:
+
+<img width="662" height="272" alt="image" src="https://github.com/user-attachments/assets/6504ec89-9152-44a4-818a-3268fd84e80d" />
+
+<img width="662" height="272" alt="image" src="https://github.com/user-attachments/assets/2379fbfc-02ae-4500-ac33-4274e9bb0b58" />
+
+<img width="662" height="272" alt="image" src="https://github.com/user-attachments/assets/dff55f1a-cdf0-4170-8d23-144e83c31fb7" />
 
 
 
