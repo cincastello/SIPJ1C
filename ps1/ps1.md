@@ -197,4 +197,4 @@ Si ho hem fet tot bé veurem, això:
 
 
 ## Comandes generals i instal·lació d'aplicacions
-
+(fer a classe)
