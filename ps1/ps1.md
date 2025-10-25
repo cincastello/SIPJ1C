@@ -121,7 +121,7 @@ Recordem el número que ens surt al sda del EFI per poder usar-lo a la següent 
 <img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/c47fd467-1682-4559-bb88-964a4cb6610c" />
 <img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/887724ef-62aa-4d68-ba10-ef74b0bb5c25" />
 
-Tanquem la màquina i la tornem a obrir i heuriem de veure això:
+Tanquem la màquina i la tornem a obrir i hauriem de veure això:
 
 <img width="607" height="441" alt="image" src="https://github.com/user-attachments/assets/a3ecbac8-5579-4cec-86d1-5e54774f57c0" />
 
