@@ -72,6 +72,9 @@ Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
 Primer que res fem sudo su i després nano /etc/default/grub
 
 <img width="597" height="382" alt="image" src="https://github.com/user-attachments/assets/c1f1ead8-f565-4c20-9c3a-cc5a6f7185ac" />
+
+Fem Ctrl X i intro per guardar i sortir.
+
 <img width="582" height="165" alt="image" src="https://github.com/user-attachments/assets/f3873c22-6b3b-4362-b192-130ed9ea990b" />
 <img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/d4e10e2d-7659-4515-bc17-c2cf66eaac6b" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/064e37c0-fba0-461f-9a4d-559f8e48d35b" />
@@ -82,12 +85,15 @@ Recordem el número que ens surt al sda del EFI per poder usar-lo a la següent 
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/40394b15-d4ec-4d6d-8f78-aca7a7c7c3e6" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/97278e37-65ab-425a-810a-23e33fbda887" />
 <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/dd628150-76c5-4978-9c94-f4e1f55deeff" />
+<img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/9b2711d6-e99a-4ce4-920a-355c14f15739" />
+<img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/c47fd467-1682-4559-bb88-964a4cb6610c" />
+<img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/887724ef-62aa-4d68-ba10-ef74b0bb5c25" />
 
+Tanquem la màquina i la tornem a obrir i heuriem de veure això:
 
-Fem Ctrl X i intro per guardar i sortir.
+<img width="607" height="441" alt="image" src="https://github.com/user-attachments/assets/a3ecbac8-5579-4cec-86d1-5e54774f57c0" />
 
-
-
+A partir d'ara podre triar si volem usar el Windows o l'Ubuntu quan obrim la nostra màquina.
 
 
 
