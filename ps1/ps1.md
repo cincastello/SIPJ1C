@@ -22,7 +22,7 @@ Sel·leccionem install Ubuntu.
 
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/850ca355-aeb7-424f-ba3d-776aca5bf3e4" />
 
-Aquí elegim minimal installation i download updates while installing Ubuntu.
+Aquí elegim minimal installation i download updates mentre instal·lem Ubuntu.
 <img width="863" height="700" alt="image" src="https://github.com/user-attachments/assets/e825fdbb-7bc6-4e8f-9664-217cb7ce38ac" />
 
 Aquí sel·leccionem something else.
