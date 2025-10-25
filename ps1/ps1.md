@@ -106,7 +106,7 @@ Primer que res fem sudo su i després nano /etc/default/grub
 
 <img width="597" height="382" alt="image" src="https://github.com/user-attachments/assets/c1f1ead8-f565-4c20-9c3a-cc5a6f7185ac" />
 
-Fem Ctrl X i intro per guardar i sortir.
+Fem Ctrl x i intro per guardar i sortir.
 
 <img width="582" height="165" alt="image" src="https://github.com/user-attachments/assets/f3873c22-6b3b-4362-b192-130ed9ea990b" />
 <img width="598" height="386" alt="image" src="https://github.com/user-attachments/assets/d4e10e2d-7659-4515-bc17-c2cf66eaac6b" />
