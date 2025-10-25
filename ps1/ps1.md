@@ -57,9 +57,23 @@ I ja tenim Ubuntu instal·lat.
 <img width="1294" height="804" alt="image" src="https://github.com/user-attachments/assets/0080f39e-c1f1-4d26-a05b-3f6d6ebf2b2c" />
 
 
+## Llicenciament
+
+<img width="817" height="459" alt="image" src="https://github.com/user-attachments/assets/5fa5c9b1-1130-4e93-8837-62a1e112e7b1" />
+
+A continuació explicaré el que hem pogut observar en la imatge anterior sobre les llicències típiques d'Ubuntu i quines són:
+- GPL = és la més usada a Linux, ja que obliga a compartir el codi en cas de distribució.
+- LGPL = és més flexible que l'anterior però més sensible per a les biblioteques.
+- Apache, BSD, Artistic, MPL = són més permissives i deixen barrejar amb programari privatiu.
+- GFDL = per la documentació
+- CC0 = és domini públic (sense restriccions)
+
+En resum, ninguna és la principal, no obstant la més usada de les ja mostrades seria la GPL.
 
 
-## Instal·lació Windows
+## Instal·lacions duals i Gestors d'arrencada
+
+Instal·lació Windows
 Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> 
 
 Obrim la màquina, entrem al windows i fem el següent:
@@ -81,7 +95,7 @@ Continuem, seleccionem l’idioma i teclat espanyol, omitim afegir algun teclat 
 Apaguem.
 
 
-## Instal·lació del grub
+El grub
 
 Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
 
@@ -112,21 +126,6 @@ Tanquem la màquina i la tornem a obrir i heuriem de veure això:
 A partir d'ara podre triar si volem usar el Windows o l'Ubuntu quan obrim la nostra màquina.
 
 
-
-## Llicenciament
-
-<img width="817" height="459" alt="image" src="https://github.com/user-attachments/assets/5fa5c9b1-1130-4e93-8837-62a1e112e7b1" />
-
-A continuació explicaré el que hem pogut observar en la imatge anterior sobre les llicències típiques d'Ubuntu i quines són:
-- GPL = és la més usada a Linux, ja que obliga a compartir el codi en cas de distribució.
-- LGPL = és més flexible que l'anterior però més sensible per a les biblioteques.
-- Apache, BSD, Artistic, MPL = són més permissives i deixen barrejar amb programari privatiu.
-- GFDL = per la documentació
-- CC0 = és domini públic (sense restriccions)
-
-En resum, ninguna és la principal, no obstant la més usada de les ja mostrades seria la GPL.
-
-## Instal·lacions duals i Gestors d'arrencada
 ## Particions i punts de restauració
 
 ## Cofiguració bàsica de la xarxa
