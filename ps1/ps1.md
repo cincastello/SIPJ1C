@@ -113,7 +113,7 @@ A partir d'ara podre triar si volem usar el Windows o l'Ubuntu quan obrim la nos
 
 
 
-### Llicenciament
+## Llicenciament
 
 <img width="817" height="459" alt="image" src="https://github.com/user-attachments/assets/5fa5c9b1-1130-4e93-8837-62a1e112e7b1" />
 
@@ -128,6 +128,24 @@ En resum, ninguna és la principal, no obstant la més usada de les ja mostrades
 
 ## Instal·lacions duals i Gestors d'arrencada
 ## Particions i punts de restauració
+
 ## Cofiguració bàsica de la xarxa
+1) Entrem al Ubuntu
+2) Entem a configuració
+
+3) <img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/30315e2a-380b-46db-89a2-504eb5d0d053" />
+
+4) Obrim terminal
+   
+5) <img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/6eec5a45-d90c-4267-b79e-2284add10687" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/a96da78f-262e-4f40-aee9-1a47e5a7b4a1" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/51c31f5f-74f4-4366-ae1a-5b62c3cbea4d" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/3099fcc0-0e86-413c-b925-a5cebc9df526" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/d91da2a6-314f-481e-bbbe-d0b6d7b3f207" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/d0ddfcb8-51ff-4ecb-b756-dba056469806" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/e26ccefb-1fdb-4cb0-98de-8a6e9f60631d" />
+<img width="663" height="389" alt="image" src="https://github.com/user-attachments/assets/1a9e6e30-f522-423a-98e5-7638c5e97ae7" />
+
+
 ## Comandes generals i instal·lació d'aplicacions
 
