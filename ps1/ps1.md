@@ -73,7 +73,7 @@ En resum, ninguna és la principal, no obstant la més usada de les ja mostrades
 
 ## Instal·lacions duals i Gestors d'arrencada
 
-Instal·lació Windows
+· Instal·lació Windows
 
 
 
@@ -102,7 +102,7 @@ Apaguem.
 
 
 
-El grub
+· El grub
 
 Entrem a la màquina al Ubuntu i obrim terminal i fem el següent:
 
