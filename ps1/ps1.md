@@ -60,9 +60,25 @@ I ja tenim Ubuntu instal·lat.
 
 
 ## Instal·lació Windows
-Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> --> <img width="594" height="361" alt="image" src="https://github.com/user-attachments/assets/5d74fd45-16e4-4b35-8cbb-8100b6692d15" /> --> polsem següent --> guardem els canvi i tornem a la nostra màquina i l'obrim.
+Seleccionem la nostra maquina i anem a paràmetres --> emmagatzematge --> <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/97540f08-2fbe-4a51-ac58-9a90879c227e" /> --> polsem el disquet blau i sel·leccionem el windows, es veurà així: <img width="259" height="57" alt="image" src="https://github.com/user-attachments/assets/ffc7c11d-c737-4f05-a826-f275572774e7" /> 
 
+Obrim la màquina, entrem al windows i fem el següent:
 
+<img width="535" height="395" alt="image" src="https://github.com/user-attachments/assets/2022ae3e-0ec2-4565-a3a2-cf5906b43f07" />
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/2b25f25a-eb33-47bc-ae52-405c9855ec4f" />
+<img width="503" height="378" alt="image" src="https://github.com/user-attachments/assets/b14d6951-1323-42f1-a4dc-82dde1c7e63c" />
+
+Personalitzem.
+
+<img width="503" height="378" alt="image" src="https://github.com/user-attachments/assets/e40da65a-f297-4508-864b-2d479eec8af0" />
+<img width="551" height="447" alt="image" src="https://github.com/user-attachments/assets/03f43327-52a8-4876-904f-e51189d636ff" />
+
+Continuem, seleccionem l’idioma i teclat espanyol, omitim afegir algun teclat extra i en ves de començar amb una conta de windows polsem entrar en un domini.
+
+<img width="473" height="349" alt="image" src="https://github.com/user-attachments/assets/7505ef1d-3879-4b80-bb2c-217e6123382c" />
+<img width="655" height="549" alt="image" src="https://github.com/user-attachments/assets/6c26c064-bd04-4681-82c1-18c73cdebb8e" />
+
+Apaguem.
 
 
 ## Instal·lació del grub
