@@ -129,8 +129,22 @@ A partir d'ara podre triar si volem usar el Windows o l'Ubuntu quan obrim la nos
 
 
 ## Particions i punts de restauració
-Anem a aprendre a fer instantànies de la màquina, les quals són comuna imatge de com estava la màquina en un cert punt per si en algun moment necessitem tornar enrere.
+Anem a aprendre a fer instantànies de la màquina, les quals són com una imatge de com estava la màquina en un cert punt per si en algun moment necessitem tornar enrere.
+El primer que farem serà anar a paràmetres i d'allí entrem a emmagatzematge i al apartat del Ubuntu en creem un altre Ubuntu. Ens quedarà així:
 
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/7dabda84-0a87-44fc-b8d9-adef2e4d20a8" />
+
+Creem una partició:
+
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/6867dc0f-01c1-44ce-bea2-de50d7a54600" />
+
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/3326bb83-c0d5-42fc-88ce-ebf86c092310" />
+
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/f969fc50-2e4e-4c3c-9e19-33e8bcc4f2e3" />
+
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/5aea8707-161f-45e6-822a-26312502b70a" />
+
+<img width="620" height="405" alt="image" src="https://github.com/user-attachments/assets/44331f93-76b8-4a9e-8daf-3ba86b0ac11c" />
 
 
 
