@@ -134,6 +134,11 @@ A partir d'ara podre triar si volem usar el Windows o l'Ubuntu quan obrim la nos
 
 
 ## Particions i punts de restauració
+Anem a aprendre a fer instantànies de la màquina, les quals són comuna imatge de com estava la màquina en un cert punt per si en algun moment necessitem tornar enrere.
+
+
+
+
 
 ## Cofiguració bàsica de la xarxa
 1) Entrem al Ubuntu
