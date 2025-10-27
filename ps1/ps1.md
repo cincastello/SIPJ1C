@@ -205,4 +205,10 @@ Fiquem pacman a la terminal per obrir-lo.
 <img width="1057" height="473" alt="image" src="https://github.com/user-attachments/assets/fbd86b7c-e2e5-4d3f-aefb-cbfbee42b83b" />
 
 
-
+A continuació intal·larem el magamario amb dpkg.
+1) Obrim SourceForge a la web.
+2) Busquem mega mario.
+3) Pulsem download i ens esperema baixar el fitxer.
+   <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d9baead6-d801-4892-a989-e2e04ed534ea" />
+4) 
+(no ho puc fer TT)
