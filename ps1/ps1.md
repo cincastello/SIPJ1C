@@ -198,3 +198,8 @@ Si ho hem fet tot bé veurem, això:
 
 ## Comandes generals i instal·lació d'aplicacions
 (fer a classe)
+Anem a instal·lar Google al Ubuntu usant l'apt.
+Seguim aquestes instruccions:
+
+<img width="828" height="586" alt="image" src="https://github.com/user-attachments/assets/a455e4a5-d098-42bf-bd8d-1b9829f952e8" />
+
