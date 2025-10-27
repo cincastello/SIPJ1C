@@ -198,8 +198,11 @@ Si ho hem fet tot bé veurem, això:
 
 ## Comandes generals i instal·lació d'aplicacions
 (fer a classe)
-Anem a instal·lar Google al Ubuntu usant l'apt.
-Seguim aquestes instruccions:
+Anem a instal·lar pacman a través de terminal amb apt.
+<img width="733" height="75" alt="image" src="https://github.com/user-attachments/assets/cb79d895-765b-488f-889b-7b7ee129b542" />
 
-<img width="828" height="586" alt="image" src="https://github.com/user-attachments/assets/a455e4a5-d098-42bf-bd8d-1b9829f952e8" />
+Fiquem pacman a la terminal per obrir-lo.
+<img width="1057" height="473" alt="image" src="https://github.com/user-attachments/assets/fbd86b7c-e2e5-4d3f-aefb-cbfbee42b83b" />
+
+
 
