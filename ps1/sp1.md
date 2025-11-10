@@ -229,7 +229,24 @@ A continuació intal·larem el fortunes-mario amb dpkg.
    
 <img width="704" height="235" alt="image" src="https://github.com/user-attachments/assets/1378e389-9c61-4e7b-a22d-7fbbe30e0b73" />
 
-2) 
-   <img width="704" height="235" alt="image" src="https://github.com/user-attachments/assets/803a406d-d685-446d-8bef-840411d61756" />
+2) Busquem a la lupa mario i sel·leccionem el primer resultat.
+3) <img width="913" height="504" alt="image" src="https://github.com/user-attachments/assets/01c518e4-81c5-4b7f-849b-969c3fd3c983" />
+4) Sel·leccionem aquest:
+   <img width="1069" height="130" alt="image" src="https://github.com/user-attachments/assets/d6499a54-2b4a-45ac-915d-52bbed312d97" />
+5) <img width="1077" height="202" alt="image" src="https://github.com/user-attachments/assets/9324d46e-3533-4ba0-8137-d5a05ab146cf" />
+   Ho seleccionem i l'obrim en una pestnya nova. Això farà que es baixi a baixades.
+   <img width="593" height="77" alt="image" src="https://github.com/user-attachments/assets/56983b4e-5f5f-48c0-bc22-b11e4f403140" />
+6) Obrim terminal i fem sudo su.
+7)  <img width="742" height="470" alt="image" src="https://github.com/user-attachments/assets/9402deaa-df6c-4600-a026-a1a52d334751" />
+8) Si no s'instal·la mirem de que depen el document i ho instal·lem.
+   <img width="742" height="470" alt="image" src="https://github.com/user-attachments/assets/83ccadbd-e397-4a62-ad45-b0f8d591b4de" />
+9) Si encara no ens deixa fem això:
+    <img width="742" height="470" alt="image" src="https://github.com/user-attachments/assets/e5e3b8bb-2514-42e9-9238-268b7d8a80e8" />
+10) 
+
+   
+
+
+
 
 
