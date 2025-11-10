@@ -197,12 +197,24 @@ Si ho hem fet tot bé veurem, això:
 
 
 ## Comandes generals i instal·lació d'aplicacions
-(fer a classe)
 Anem a instal·lar pacman a través de terminal amb apt.
 <img width="733" height="75" alt="image" src="https://github.com/user-attachments/assets/cb79d895-765b-488f-889b-7b7ee129b542" />
 
 Fiquem pacman a la terminal per obrir-lo.
 <img width="1057" height="473" alt="image" src="https://github.com/user-attachments/assets/fbd86b7c-e2e5-4d3f-aefb-cbfbee42b83b" />
+
+Ara instal·larem el mkdocs amb apt.
+<img width="686" height="201" alt="image" src="https://github.com/user-attachments/assets/082f6f07-612b-4c52-98ac-c78f58802923" />
+<img width="747" height="80" alt="image" src="https://github.com/user-attachments/assets/77fdcfba-f48c-4f04-a774-c3820b710410" />
+
+Ara ja el tenim instal·lat i des de la terminal pode crear un nou projecte usant estes comandes:
+mkdocs new prova
+cd prova
+cd ..
+mkdocs serve
+
+
+
 
 
 A continuació intal·larem el magamario amb dpkg.
