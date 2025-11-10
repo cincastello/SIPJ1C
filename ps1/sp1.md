@@ -260,9 +260,9 @@ A continuació intal·larem el fortunes-mario amb dpkg.
     
 10) L'obrim:
     
-    <img width="845" height="112" alt="image" src="https://github.com/user-attachments/assets/4e29157f-9a56-440a-a896-bf9434bd0495" />
+   <img width="795" height="91" alt="image" src="https://github.com/user-attachments/assets/0f1efc75-ad81-4609-a57f-7bda8201a1c5" />
 
-    <img width="824" height="347" alt="image" src="https://github.com/user-attachments/assets/6aab3bae-8dee-435e-820e-df93d7c353b1" />
+   <img width="824" height="347" alt="image" src="https://github.com/user-attachments/assets/6aab3bae-8dee-435e-820e-df93d7c353b1" />
 
 
     
