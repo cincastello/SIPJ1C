@@ -207,6 +207,8 @@ Ara instal·larem el mkdocs amb apt.
 
 <img width="686" height="201" alt="image" src="https://github.com/user-attachments/assets/082f6f07-612b-4c52-98ac-c78f58802923" />
 <img width="747" height="80" alt="image" src="https://github.com/user-attachments/assets/77fdcfba-f48c-4f04-a774-c3820b710410" />
+<img width="739" height="418" alt="image" src="https://github.com/user-attachments/assets/317f0a40-a56e-4fc0-b309-dd081d650bad" />
+
 
 Ara ja el tenim instal·lat i des de la terminal pode crear un nou projecte usant estes comandes:
 
