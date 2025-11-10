@@ -204,6 +204,7 @@ Fiquem pacman a la terminal per obrir-lo.
 <img width="1057" height="473" alt="image" src="https://github.com/user-attachments/assets/fbd86b7c-e2e5-4d3f-aefb-cbfbee42b83b" />
 
 Ara instal·larem el mkdocs amb apt.
+
 <img width="686" height="201" alt="image" src="https://github.com/user-attachments/assets/082f6f07-612b-4c52-98ac-c78f58802923" />
 <img width="747" height="80" alt="image" src="https://github.com/user-attachments/assets/77fdcfba-f48c-4f04-a774-c3820b710410" />
 
