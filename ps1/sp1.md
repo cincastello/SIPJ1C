@@ -245,6 +245,10 @@ A continuació intal·larem el fortunes-mario amb dpkg.
 10) Instal·lat:
     <img width="742" height="470" alt="image" src="https://github.com/user-attachments/assets/fe4b06e2-4e30-441d-9d96-27f3812bd584" />
 11) L'obrim:
+    <img width="845" height="112" alt="image" src="https://github.com/user-attachments/assets/4e29157f-9a56-440a-a896-bf9434bd0495" />
+    <img width="824" height="347" alt="image" src="https://github.com/user-attachments/assets/6aab3bae-8dee-435e-820e-df93d7c353b1" />
+
+
     
 
 
