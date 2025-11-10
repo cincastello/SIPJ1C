@@ -224,5 +224,12 @@ mkdocs serve
 
 
 
-A continuació intal·larem el SuperTuxKart amb dpkg.
-1) 
+A continuació intal·larem el fortunes-mario amb dpkg.
+1) Obrim Paquets .deb
+   
+<img width="704" height="235" alt="image" src="https://github.com/user-attachments/assets/1378e389-9c61-4e7b-a22d-7fbbe30e0b73" />
+
+2) 
+   <img width="704" height="235" alt="image" src="https://github.com/user-attachments/assets/803a406d-d685-446d-8bef-840411d61756" />
+
+
