@@ -222,10 +222,5 @@ mkdocs serve
 
 
 
-A continuació intal·larem el magamario amb dpkg.
-1) Obrim SourceForge a la web.
-2) Busquem mega mario.
-3) Pulsem download i ens esperema baixar el fitxer.
-   <img width="536" height="68" alt="image" src="https://github.com/user-attachments/assets/d9baead6-d801-4892-a989-e2e04ed534ea" />
-4) 
-(no ho puc fer TT)
+A continuació intal·larem el SuperTuxKart amb dpkg.
+1) 
