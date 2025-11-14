@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Cursos de Sistemes informàtics"
+---
+
 ## Virtualització i instal·lació del SO Ubuntu
 
 
