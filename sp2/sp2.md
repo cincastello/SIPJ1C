@@ -293,3 +293,53 @@ Es copien a tots els usuaris, si el modifico tb passarà als altres usuaris, lla
 
 <img width="587" height="171" alt="image" src="https://github.com/user-attachments/assets/86bda4d9-b95b-4145-ae5b-055eb470f6ea" />
 
+
+Canviem l’inici dels UID i el GID per a que comencin al número 2000
+
+<img width="636" height="344" alt="image" src="https://github.com/user-attachments/assets/e7870ac0-ee50-4768-a0e0-56cf89b2d1a3" />
+
+<img width="550" height="295" alt="image" src="https://github.com/user-attachments/assets/86a70d21-1833-4187-8715-7e47e8ee38ea" />
+
+
+Per canviar la configuració dels usuaris nous:
+
+
+<img width="550" height="295" alt="image" src="https://github.com/user-attachments/assets/c89f2ce1-b7b8-4c79-9ed6-4513b6e441a1" />
+
+<img width="550" height="311" alt="image" src="https://github.com/user-attachments/assets/1f4ac38f-5801-4c9a-aa66-6d30c293e430" />
+
+(per canviar la forma d’accedir al home)
+
+
+Les comandes usades:
+
+
+<img width="585" height="78" alt="image" src="https://github.com/user-attachments/assets/8362bdc6-a9a3-4570-85c2-3df3bbe0a2c5" />
+
+
+Ha funcionat:
+
+
+<img width="644" height="261" alt="image" src="https://github.com/user-attachments/assets/f46fa3f4-b8a8-456d-87bf-8d1af189442b" />
+
+
+
+En useradd no se li crea una home automàticament
+
+
+<img width="521" height="98" alt="image" src="https://github.com/user-attachments/assets/94ccd17c-fda3-42aa-b65f-43a56096a100" />
+
+
+CONFIGURACIÓ PER A ADDUSER I USERADD:
+
+
+<img width="629" height="134" alt="image" src="https://github.com/user-attachments/assets/0c68a209-f8e0-4e75-a1ef-8709d8941bad" />
+
+
+Canviem el tipus de shell de bin bash a bin fish i el nom per accedir al home.
+
+<img width="592" height="39" alt="image" src="https://github.com/user-attachments/assets/fcdb69d3-3c50-45a1-bc5e-41cd6fce2a9c" />
+
+<img width="592" height="43" alt="image" src="https://github.com/user-attachments/assets/3e4e7a8c-6507-4c95-9418-be93476aa47e" />
+
+<img width="642" height="243" alt="image" src="https://github.com/user-attachments/assets/ef0082bb-e17d-42d4-af39-a785945d1a72" />
