@@ -125,14 +125,31 @@ Per reduir
 Un sector és l’unitat mínima fisica on es guarden les dades al disc (de 512 bytes per defecte i en principi no es pot modificar). 
 
 
-Fem: apt install gnome-system-tools, i aquí tenim el nostre usuari nom:contrasenya en un altre fitxer:id_usuari_id_grup_principal:
-
 Fitxers implicats (3 passos, 1.passwd, 2.group, 3.shadow(4.gshadow))
 Comandes bàsiques
 Personalització de comandes
 
+Fem: apt install gnome-system-tools, i aquí tenim el nostre usuari nom:contrasenya en un altre fitxer:id_usuari_id_grup_principal:
+És el fitxer central que conté la informació de tots els usuaris en sistemes Linux.
+
 
 <img width="655" height="333" alt="image" src="https://github.com/user-attachments/assets/36d090db-9697-4c49-9199-54ce833915fe" />
+
+Nom ususari. git number(grup principal q te assignat l’usuari).
+
+
+Password en un altre fitxer:
+
+<img width="655" height="333" alt="image" src="https://github.com/user-attachments/assets/0377ac7c-f85f-4708-ab79-ebdc90eb9ca1" />
+
+Caducitats i tot el que hem fet respecte a les contres, tots usuaris que formen part del grup
+
+id del usuari
+aquí es veu el de dalt i qui es el usuari admin d’aquell grup
+
+<img width="652" height="350" alt="image" src="https://github.com/user-attachments/assets/c0f17d39-98e4-427f-a53e-28c95ddf7c2f" />
+
+
 
 
 
