@@ -68,8 +68,11 @@ etc
 · Tipus de formateig:
 
 Tenim 3 tipus (alt nivell(característiques:(és el ràpid) quan formatem a traves del so no es borren els arxiu q hi havien sino el sistema de fitxers)(el recuva recupera els arxius), baix nivell(característiques:es borra TOT, intenta reparar un sector defectuós) i mig nivell(característiques el mateix q el ràpid i mira si hi ha algun sector defectuós però sol ho diu i no fa res))
+
 - Particions/volums
+
 Una partició es un tros de disc q ocupa espai a nivell físic.
+
 El volum és una capa d’abstracció q es fica damunt les particions a nivell lògic, agrupació de particions o discos on a partir d’allí es poden fer més particions per treballar més còmodament.
 
 Part pràctica:
@@ -126,10 +129,13 @@ Un sector és l’unitat mínima fisica on es guarden les dades al disc (de 512 
 
 
 Fitxers implicats (3 passos, 1.passwd, 2.group, 3.shadow(4.gshadow))
+
 Comandes bàsiques
+
 Personalització de comandes
 
 Fem: apt install gnome-system-tools, i aquí tenim el nostre usuari nom:contrasenya en un altre fitxer:id_usuari_id_grup_principal:
+
 És el fitxer central que conté la informació de tots els usuaris en sistemes Linux.
 
 
@@ -145,9 +151,11 @@ Password en un altre fitxer:
 Caducitats i tot el que hem fet respecte a les contres, tots usuaris que formen part del grup
 
 id del usuari
+
 aquí es veu el de dalt i qui es el usuari admin d’aquell grup
 
 <img width="652" height="350" alt="image" src="https://github.com/user-attachments/assets/c0f17d39-98e4-427f-a53e-28c95ddf7c2f" />
+
 
 
 
