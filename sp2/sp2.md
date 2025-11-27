@@ -130,6 +130,11 @@ Un sector és l’unitat mínima fisica on es guarden les dades al disc (de 512 
 
 Fitxers implicats (3 passos, 1.passwd, 2.group, 3.shadow(4.gshadow))
 
+nano gro
+nano group
+nano shadow: tot el q fa referent a les contres, dates de caducitat, etc
+nano gshadow
+
 Comandes bàsiques
 
 Personalització de comandes
@@ -156,18 +161,135 @@ aquí es veu el de dalt i qui es el usuari admin d’aquell grup
 
 <img width="652" height="350" alt="image" src="https://github.com/user-attachments/assets/c0f17d39-98e4-427f-a53e-28c95ddf7c2f" />
 
+id grup prinicpal del usuari
+
+<img width="652" height="387" alt="image" src="https://github.com/user-attachments/assets/d993cf99-efb3-4544-8172-1742bbc30119" />
+
+<img width="323" height="72" alt="image" src="https://github.com/user-attachments/assets/6ab40d42-aec5-47cf-8834-730daf4cce43" />
+
+<img width="526" height="82" alt="image" src="https://github.com/user-attachments/assets/6effe737-d240-4645-9af5-2262fde1b23d" />
 
 
+Fins q no iniciem sessió al nou usuari no podem fer canvis des de el principal
+
+Chown per canviar usuari propietari del grup
 
 
+Anem a crear un usuari nou anomenat "vesper". Primer li assignem una contrasenya, però el sistema ens avisa que és massa curta, de manera que n'hem d'escollir una de més llarga.
+
+A continuació, comprovem que l'usuari tingui la shell bash configurada, i mitjançant una ordre li assignem aquesta shell perquè pugui utilitzar-la.
+
+També hem de crear manualment la carpeta personal a /home/vesper i assignar-ne la propietat a l'usuari, ja que a vegades aquesta carpeta no es crea automàticament.
+
+Finalment, ja tenim l'usuari "vesper" configurat i preparat per a ser utilitzat, amb la seva carpeta personal i la shell bash correctament assignades.
 
 
+<img width="628" height="468" alt="image" src="https://github.com/user-attachments/assets/3333433f-f423-4c1e-bb6d-c467d6edd7a9" />
+
+<img width="267" height="47" alt="image" src="https://github.com/user-attachments/assets/823e6649-1b19-46ed-9d58-26a1cafe590b" />
+
+Usem usermod per modificar usuaris existents
+Després d’entrar gràficament a l’altre usuari es creen les carpetes
+
+Per eliminar usuari:
+- deluser
+- userdel
 
 
+<img width="477" height="343" alt="image" src="https://github.com/user-attachments/assets/8ff24e78-72ba-42a0-b354-db8c6ffd33bb" />
+
+<img width="623" height="349" alt="image" src="https://github.com/user-attachments/assets/c4d1582c-4e2a-4d27-844e-adb5b1b3d632" />
 
 
+Per bloquejar-lo:
 
 
+<img width="654" height="125" alt="image" src="https://github.com/user-attachments/assets/711c9bd4-4295-4472-b9f2-276cfe93fd1d" />
 
 
+Per desbloquejar-lo fiquem una U:
+
+
+<img width="668" height="78" alt="image" src="https://github.com/user-attachments/assets/0c772a95-56c4-48a9-a775-4d4c0598c2c0" />
+
+
+Així fem un grup:
+
+
+<img width="502" height="66" alt="image" src="https://github.com/user-attachments/assets/4558e115-fbd1-468f-b3e6-72c291460e73" />
+
+<img width="593" height="27" alt="image" src="https://github.com/user-attachments/assets/6d3e7ba8-7767-4182-9765-cc5d11690ea3" />
+
+<img width="618" height="41" alt="image" src="https://github.com/user-attachments/assets/6896f035-6af7-4295-bab1-cd237049d615" />
+
+
+Així s’afegeix un usuari de 3 formes diferents:
+
+<img width="570" height="239" alt="image" src="https://github.com/user-attachments/assets/b38ec3fb-c26d-41c2-addc-f326bf258a9f" />
+
+<img width="584" height="49" alt="image" src="https://github.com/user-attachments/assets/e0b652a1-9edd-4fc0-9363-dc37cd502f2b" />
+
+<img width="608" height="47" alt="image" src="https://github.com/user-attachments/assets/c936918f-3f45-459b-95e2-8f2b769b8472" />
+
+<img width="646" height="371" alt="image" src="https://github.com/user-attachments/assets/efda9a93-20f4-49dc-94cc-a033e7b180cf" />
+
+
+Per treure un usuari d’un grup:
+
+
+<img width="551" height="72" alt="image" src="https://github.com/user-attachments/assets/f944525d-7787-494d-aa5e-d182371d0832" />
+
+
+Segona manera:
+
+
+<img width="577" height="71" alt="image" src="https://github.com/user-attachments/assets/5f140341-4ad2-494d-9de0-2f1c27e882db" />
+
+
+Modifica el grup principal de l’usuari:
+
+
+<img width="607" height="74" alt="image" src="https://github.com/user-attachments/assets/1691bb8a-87f7-40b9-ba7a-50d3065e17d4" />
+
+<img width="450" height="22" alt="image" src="https://github.com/user-attachments/assets/f01b91ee-184d-43f2-aef6-567287a1d009" />
+
+
+Per comprovar:
+
+
+<img width="625" height="66" alt="image" src="https://github.com/user-attachments/assets/051063ec-a855-4cf2-94fc-9e6f2d147513" />
+
+<img width="642" height="156" alt="image" src="https://github.com/user-attachments/assets/616bab86-e37a-4c4c-ac7d-20914e5bcd38" />
+
+<img width="482" height="25" alt="image" src="https://github.com/user-attachments/assets/ee486c9c-ffcb-429a-b92b-d31449d81bd4" />
+
+Et diu els grups dels q forma part l’usuari:
+
+<img width="482" height="21" alt="image" src="https://github.com/user-attachments/assets/2b0ba6f5-8dea-49e9-b9ec-fbf3d89e0174" />
+
+
+Per esborrar un grup:
+
+<img width="635" height="198" alt="image" src="https://github.com/user-attachments/assets/d3c5884c-d8df-43cb-8359-ce94338f51f4" />
+
+<img width="376" height="25" alt="image" src="https://github.com/user-attachments/assets/fb4f9046-8c6e-401e-927b-a0db069b2c87" />
+
+
+Si està assignat com a principal d’un usuari no ens el deixarà borrar així que haurem de reasignar el grup principal al usuari amb usermod -g prova4 prova4 i després ho comprovem amb groupdel proves per veure si ens el deixa provar.
+
+
+<img width="442" height="23" alt="image" src="https://github.com/user-attachments/assets/f4eb4aa3-d71d-4533-a1fd-32c0d47cf887" />
+
+<img width="442" height="23" alt="image" src="https://github.com/user-attachments/assets/9221361d-be75-4288-863e-e6236799adb3" />
+
+
+Arxius ocults perquè tenen punt:
+
+<img width="587" height="171" alt="image" src="https://github.com/user-attachments/assets/33a41888-e753-474b-b005-4c33d77d331f" />
+
+
+Es copien a tots els usuaris, si el modifico tb passarà als altres usuaris, llavors pa editar algo de un ho farem a la home i no al skel. Així:
+
+
+<img width="587" height="171" alt="image" src="https://github.com/user-attachments/assets/86bda4d9-b95b-4145-ae5b-055eb470f6ea" />
 
