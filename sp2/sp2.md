@@ -125,6 +125,21 @@ Per reduir
 Un sector és l’unitat mínima fisica on es guarden les dades al disc (de 512 bytes per defecte i en principi no es pot modificar). 
 
 
+Fem: apt install gnome-system-tools, i aquí tenim el nostre usuari nom:contrasenya en un altre fitxer:id_usuari_id_grup_principal:
+
+Fitxers implicats (3 passos, 1.passwd, 2.group, 3.shadow(4.gshadow))
+Comandes bàsiques
+Personalització de comandes
+
+
+<img width="655" height="333" alt="image" src="https://github.com/user-attachments/assets/36d090db-9697-4c49-9199-54ce833915fe" />
+
+
+
+
+
+
+
 
 
 
