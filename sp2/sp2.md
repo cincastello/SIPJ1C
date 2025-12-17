@@ -357,6 +357,14 @@ Explicació en taula:
 
 <img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/7f04d3f4-6d1f-45a3-9121-76601521e54c" />
 
+---
+Què és?: És una còpia de les dades per poder-les recuperar si mai es perden.
+Per a què serveix?: Per a recuperar informació en cas de necessitar alguna cosa anteriorment eliminada, virus inesperat, robatori del dispositiu, error tècnic.
+On es guarda: Ho podem guardar en diferents llocs: en un disc extern, al núvol (exemple: drive), algun altre dispositiu.
+Quantes còpies hauriem de fer?: Com més millor ja que mai es sap quan poden fer falta. No obstant, el mínim seria 3: l’original, una còpia i una segona còpia. Si és possible, tinguem almenys una en un lloc diferent de les altes, com en un disc dur diferent o al núvol.
+Amb quina freqüència hauriem de fer còpies de seguretat?: Depèn del tipus de dades que tinguem i de la seva importància. Ho podem fer diariament, intermitentment durant la setmana, setmanalment, mensualment, etc. El més important és fer-la.
+Verificació: Fer proves per verificar que es poden recuperar les dades de la còpia i no esperar que les necessitem de veritat per fer-ho.
+---
 
 
 mini definicio de les tres en una petita taula
@@ -369,4 +377,5 @@ mini taula
 rsync (per sincronitzar(si canviem algo en una carpeta en l’altra tb) carpetes i es intel·ligent i permet fer còpies en local o en remot via ssh)
 dd (per clonar particions o discos) no es intel·ligent, se clona tot el disco
 Pràctica comandes Backups
+
 
