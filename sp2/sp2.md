@@ -343,3 +343,30 @@ Canviem el tipus de shell de bin bash a bin fish i el nom per accedir al home.
 <img width="592" height="43" alt="image" src="https://github.com/user-attachments/assets/3e4e7a8c-6507-4c95-9418-be93476aa47e" />
 
 <img width="642" height="243" alt="image" src="https://github.com/user-attachments/assets/ef0082bb-e17d-42d4-af39-a785945d1a72" />
+
+
+
+
+## Permisos
+Part 1:
+
+Part 2:
+CÒPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
+Teoria Còpies de Seguretat
+Explicació en taula:
+
+<img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/7f04d3f4-6d1f-45a3-9121-76601521e54c" />
+
+
+
+mini definicio de les tres en una petita taula
+
+Tipus: completa(còpia de tot el disc, carpeta, de tot copia completa)(inconvenient, pesa molt i son molt lentes de fer), diferencial(a partir d’una copia completa tot el q estigue modificat, sempre es la diferencia de la completa encara q abans ja haguem fet una d’elles)(necessitem la completa per recuperarla(inconvenient),  incremental(copia tot el modificat a més petita escala ja q per recuperar una necessitem les anteriors i la completa)(bo:ocupen poc espai)(inconvenient: podem necessitar moltes per recuperar una)
+
+Teoria comandes Backups
+mini taula
+1. cp (copiar) copia simple no intel·ligent(si es modifica algo en una de elles no afecta l’altra) q s’usa en sistemes locals
+rsync (per sincronitzar(si canviem algo en una carpeta en l’altra tb) carpetes i es intel·ligent i permet fer còpies en local o en remot via ssh)
+dd (per clonar particions o discos) no es intel·ligent, se clona tot el disco
+Pràctica comandes Backups
+
