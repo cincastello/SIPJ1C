@@ -396,7 +396,9 @@ Tipus:
 
 
 4. Pràctica programes backups
+   
   a. Deja-Dup
+  
   b. Duplicity
 
 
@@ -405,6 +407,7 @@ Tipus:
       
 
       
+
 
 
 
