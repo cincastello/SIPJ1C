@@ -352,31 +352,58 @@ Part 1:
 
 Part 2:
 CÒPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
-Teoria Còpies de Seguretat
+1. Teoria Còpies de Seguretat
 Explicació en taula:
 
 <img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/2454ada9-4801-4c8f-baf5-5b4a8d6ffdee" />
 
----
-Què és?: És una còpia de les dades per poder-les recuperar si mai es perden.
-Per a què serveix?: Per a recuperar informació en cas de necessitar alguna cosa anteriorment eliminada, virus inesperat, robatori del dispositiu, error tècnic.
-On es guarda: Ho podem guardar en diferents llocs: en un disc extern, al núvol (exemple: drive), algun altre dispositiu.
-Quantes còpies hauriem de fer?: Com més millor ja que mai es sap quan poden fer falta. No obstant, el mínim seria 3: l’original, una còpia i una segona còpia. Si és possible, tinguem almenys una en un lloc diferent de les altes, com en un disc dur diferent o al núvol.
-Amb quina freqüència hauriem de fer còpies de seguretat?: Depèn del tipus de dades que tinguem i de la seva importància. Ho podem fer diariament, intermitentment durant la setmana, setmanalment, mensualment, etc. El més important és fer-la.
-Verificació: Fer proves per verificar que es poden recuperar les dades de la còpia i no esperar que les necessitem de veritat per fer-ho.
----
 
 
-mini definicio de les tres en una petita taula
 
-Tipus: completa(còpia de tot el disc, carpeta, de tot copia completa)(inconvenient, pesa molt i son molt lentes de fer), diferencial(a partir d’una copia completa tot el q estigue modificat, sempre es la diferencia de la completa encara q abans ja haguem fet una d’elles)(necessitem la completa per recuperarla(inconvenient),  incremental(copia tot el modificat a més petita escala ja q per recuperar una necessitem les anteriors i la completa)(bo:ocupen poc espai)(inconvenient: podem necessitar moltes per recuperar una)
+Tipus:
 
-Teoria comandes Backups
-mini taula
-1. cp (copiar) copia simple no intel·ligent(si es modifica algo en una de elles no afecta l’altra) q s’usa en sistemes locals
-rsync (per sincronitzar(si canviem algo en una carpeta en l’altra tb) carpetes i es intel·ligent i permet fer còpies en local o en remot via ssh)
-dd (per clonar particions o discos) no es intel·ligent, se clona tot el disco
-Pràctica comandes Backups
+<img width="619" height="579" alt="image" src="https://github.com/user-attachments/assets/53589252-55cc-4c23-be53-d79242d36aa7" />
 
+
+
+
+
+2. Teoria comandes Backups:
+
+<img width="628" height="290" alt="image" src="https://github.com/user-attachments/assets/38c9f716-3e23-460d-93c0-c70cbcd5f744" />
+
+
+
+
+3. Pràctica comandes Backups:
+   1. cp
+
+      
+      <img width="652" height="422" alt="image" src="https://github.com/user-attachments/assets/2a0cf541-88a1-42b7-b388-004b47efd377" />
+
+
+   2. rsync
+
+
+      <img width="652" height="422" alt="image" src="https://github.com/user-attachments/assets/84421864-da80-464c-b570-e5705d6de34b" />
+
+
+   3. dd
+  
+
+      <img width="661" height="434" alt="image" src="https://github.com/user-attachments/assets/0af5829f-76e2-4dcf-b5fb-f580bbe3d80c" />
+
+
+
+4. Pràctica programes backups
+  1. Deja-Dup
+  2. Duplicity
+
+
+
+
+      
+
+      
 
 
