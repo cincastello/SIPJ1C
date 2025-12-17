@@ -355,7 +355,7 @@ CÒPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
 Teoria Còpies de Seguretat
 Explicació en taula:
 
-<img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/7f04d3f4-6d1f-45a3-9121-76601521e54c" />
+<img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/2454ada9-4801-4c8f-baf5-5b4a8d6ffdee" />
 
 ---
 Què és?: És una còpia de les dades per poder-les recuperar si mai es perden.
@@ -377,5 +377,6 @@ mini taula
 rsync (per sincronitzar(si canviem algo en una carpeta en l’altra tb) carpetes i es intel·ligent i permet fer còpies en local o en remot via ssh)
 dd (per clonar particions o discos) no es intel·ligent, se clona tot el disco
 Pràctica comandes Backups
+
 
 
