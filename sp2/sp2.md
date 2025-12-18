@@ -450,14 +450,13 @@ Tipus:
    
   a. Deja-Dup
   
-  b. Duplicity
-
 
 
 
       
 
       
+
 
 
 
