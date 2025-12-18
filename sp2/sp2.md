@@ -551,7 +551,6 @@ Antigament anaven per separat però ara ja treballen conjuntament
 
 6. Pràctica automatització
 1. cron
-anacron
 
 
 
@@ -559,8 +558,54 @@ anacron
 <img width="747" height="263" alt="image" src="https://github.com/user-attachments/assets/5f164ade-e59d-4a26-8c35-03fe7c8f59e2" />
 <img width="689" height="319" alt="image" src="https://github.com/user-attachments/assets/ef4e222b-cd67-4302-810b-e01ffdd7d76a" />
 <img width="745" height="340" alt="image" src="https://github.com/user-attachments/assets/e4634997-9478-4070-a15e-a089a458b19f" />
+
+
 <img width="163" height="140" alt="image" src="https://github.com/user-attachments/assets/6856f78d-7f03-4b8f-ab28-4cc10e8dccc1" />
+
+
+
+<img width="626" height="57" alt="image" src="https://github.com/user-attachments/assets/743ff9fb-0153-423c-9813-7127e2c5773b" />
 <img width="746" height="143" alt="image" src="https://github.com/user-attachments/assets/825f754b-0b87-437e-acea-15031c8852be" />
+<img width="553" height="205" alt="image" src="https://github.com/user-attachments/assets/daf3098d-7b53-4d15-b59b-6453b6fce815" />
 
 
+
+
+Canviem el 5 per un 1 ja q no volem esperar a q faigue la copia.
+
+
+
+
+<img width="734" height="176" alt="image" src="https://github.com/user-attachments/assets/8f4a0acd-8b06-40f1-a8fd-7a5e9a9619d2" />
+<img width="734" height="121" alt="image" src="https://github.com/user-attachments/assets/799f6a37-6bcf-42a9-819c-19c4dcaaddae" />
+
+
+
+
+<img width="145" height="140" alt="image" src="https://github.com/user-attachments/assets/34d84fff-55cb-49ad-a2f0-3f1fd981607c" />
+
+
+
+
+<img width="741" height="347" alt="image" src="https://github.com/user-attachments/assets/67447813-6bc6-4579-a64d-271bf1430872" />
+
+
+
+Este es el cron i tots els usuaris l’usen.
+
+
+
+<img width="616" height="87" alt="image" src="https://github.com/user-attachments/assets/393b9a56-0401-4b69-800a-59bf395c76e1" />
+
+
+
+
+2. anacron:
+
+
+<img width="724" height="259" alt="image" src="https://github.com/user-attachments/assets/ce2bc10c-3e92-4d5c-a4ba-575c785cc204" />
+<img width="552" height="209" alt="image" src="https://github.com/user-attachments/assets/027a68df-10a8-4425-a871-15d707426d9f" />
+<img width="694" height="468" alt="image" src="https://github.com/user-attachments/assets/7e416a04-218e-41b7-a6d5-ea737a1626cd" />
+<img width="747" height="48" alt="image" src="https://github.com/user-attachments/assets/0a4c24e6-2b8e-450e-92d1-f6ea135262b0" />
+<img width="728" height="318" alt="image" src="https://github.com/user-attachments/assets/ccd8d81e-ea18-492b-b3e1-398d6dfe4b3e" />
 
