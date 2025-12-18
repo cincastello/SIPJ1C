@@ -371,6 +371,11 @@ Posem com a propietari de la carpeta a groc
 
 
 <img width="627" height="401" alt="image" src="https://github.com/user-attachments/assets/f2428aa3-61f3-40dd-9a59-d002a1e3049d" />
+
+
+Posem a parchis com a grup de compartida
+
+
 <img width="625" height="388" alt="image" src="https://github.com/user-attachments/assets/dc1df568-db38-4ad0-a02b-903daa706901" />
 <img width="629" height="365" alt="image" src="https://github.com/user-attachments/assets/9d4aaa2e-5e14-41e2-8ed2-8afa1212c2a5" />
 <img width="798" height="37" alt="image" src="https://github.com/user-attachments/assets/f160466f-479e-4bf9-858e-42f84dbee6a8" />
@@ -450,6 +455,7 @@ Tipus:
       
 
       
+
 
 
 
