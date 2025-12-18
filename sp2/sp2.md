@@ -606,6 +606,6 @@ Este es el cron i tots els usuaris l’usen.
 <img width="724" height="259" alt="image" src="https://github.com/user-attachments/assets/ce2bc10c-3e92-4d5c-a4ba-575c785cc204" />
 <img width="552" height="209" alt="image" src="https://github.com/user-attachments/assets/027a68df-10a8-4425-a871-15d707426d9f" />
 <img width="694" height="468" alt="image" src="https://github.com/user-attachments/assets/7e416a04-218e-41b7-a6d5-ea737a1626cd" />
-<img width="747" height="48" alt="image" src="https://github.com/user-attachments/assets/0a4c24e6-2b8e-450e-92d1-f6ea135262b0" />
 <img width="728" height="318" alt="image" src="https://github.com/user-attachments/assets/ccd8d81e-ea18-492b-b3e1-398d6dfe4b3e" />
+
 
