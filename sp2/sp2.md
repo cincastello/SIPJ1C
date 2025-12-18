@@ -449,21 +449,81 @@ Tipus:
 4. Pràctica programes backups
    
   a. Deja-Dup
+  Primer que res fem update al sistema per assegurar-nos que ho tenim tot al dia:
+
+
+  <img width="540" height="90" alt="image" src="https://github.com/user-attachments/assets/6482eed2-6a41-4e4e-8427-512909a1a01d" />
+
   
+Instal·lem el Deja-Dup:
 
 
+<img width="747" height="202" alt="image" src="https://github.com/user-attachments/assets/3d0b3122-30dd-42c2-88d1-8a2df6d31309" />
+
+
+Creem una carpeta nova amb el nom de Back Up per usar-la ara
+
+
+<img width="510" height="208" alt="image" src="https://github.com/user-attachments/assets/b5a17fcc-2f8f-4bea-a509-356f770237a0" />
 
       
+Ara ja podem buscar el Deja-Dup al buscador d'apps
+
+
+<img width="447" height="278" alt="image" src="https://github.com/user-attachments/assets/c4a5fe15-eaaf-424d-92f4-5acaacb738fc" />
 
       
+Ho obrim
+
+
+<img width="718" height="379" alt="image" src="https://github.com/user-attachments/assets/f4b4c166-b839-4c06-b1ee-04db0a039212" />
 
 
 
+Li donem a Create My First BackUp ja que al acabar d'haver-la instal·lat no tenim cap ja feta.
+
+
+<img width="713" height="432" alt="image" src="https://github.com/user-attachments/assets/51513723-2481-4263-8737-13dbd10845f9" />
+
+
+Li donem a endavant.
+A Storage Location he triat Carpeta local i he triat la carpeta de Backup
+
+<img width="713" height="432" alt="image" src="https://github.com/user-attachments/assets/28d627bf-39ce-44d7-b1a6-13825b3859f2" />
+<img width="745" height="188" alt="image" src="https://github.com/user-attachments/assets/a8e8724f-68a2-4a91-9f00-45d6e5067de1" />
+
+
+No es veu però ja està sel·leccionada 
+
+
+<img width="713" height="432" alt="image" src="https://github.com/user-attachments/assets/28d627bf-39ce-44d7-b1a6-13825b3859f2" />
+
+
+Fiquem contrasenya:
+
+
+<img width="633" height="538" alt="image" src="https://github.com/user-attachments/assets/6c2e68b6-68da-4211-9b12-93fc3e42e256" />
+
+
+Li donem a endavant quan ho tinguem
 
 
 
+<img width="633" height="538" alt="image" src="https://github.com/user-attachments/assets/791f4edc-7d04-4d69-bc6d-87e5356f5546" />
 
 
 
+I ja està.
+Ens torna a portar al menú d'abans. On si en volem fer una altra li donem al Back up now de nou.
 
 
+<img width="633" height="538" alt="image" src="https://github.com/user-attachments/assets/5c2cad52-6639-4392-8ab6-48fd71f9ad74" />
+<img width="633" height="538" alt="image" src="https://github.com/user-attachments/assets/fcb0f6f7-c9d7-4c0c-b743-219507205cb3" />
+
+
+
+Aquí tenim per restaurar:
+
+
+
+<img width="739" height="425" alt="image" src="https://github.com/user-attachments/assets/3c1cad57-4f6f-45ec-b62c-159260bc711e" />
