@@ -527,3 +527,14 @@ Aquí tenim per restaurar:
 
 
 <img width="739" height="425" alt="image" src="https://github.com/user-attachments/assets/3c1cad57-4f6f-45ec-b62c-159260bc711e" />
+
+
+
+
+
+Ara obrim la carpeta que hem creat abans i hauriem de trobar la còpia que hem fet. Com aquí:
+
+
+
+<img width="661" height="214" alt="image" src="https://github.com/user-attachments/assets/f447fc93-a288-43fa-9b4d-5d1db040febd" />
+
