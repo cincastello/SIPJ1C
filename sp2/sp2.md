@@ -371,6 +371,9 @@ Creem el grup Parchis i posem el roig i el blau al grup:
 <img width="798" height="37" alt="image" src="https://github.com/user-attachments/assets/f160466f-479e-4bf9-858e-42f84dbee6a8" />
 <img width="639" height="169" alt="image" src="https://github.com/user-attachments/assets/3ecb4f0c-53cd-4c83-91a0-5d6bfaf1aa93" />
 <img width="707" height="183" alt="image" src="https://github.com/user-attachments/assets/5745b758-ab04-46b5-8bbc-5c21d2a80f4d" />
+<img width="605" height="462" alt="image" src="https://github.com/user-attachments/assets/c6b9fe81-df68-497b-928a-433f73036be7" />
+<img width="465" height="130" alt="image" src="https://github.com/user-attachments/assets/142ff04f-331c-4c27-a115-c8c84cb021d0" />
+
 
 
 
@@ -436,6 +439,7 @@ Tipus:
       
 
       
+
 
 
 
