@@ -350,12 +350,41 @@ Canviem el tipus de shell de bin bash a bin fish i el nom per accedir al home.
 ## Permisos
 Part 1:
 
+
+<img width="553" height="337" alt="image" src="https://github.com/user-attachments/assets/3e13d50b-2aee-4db0-ae58-d0fe1b5e6046" />
+
+
+Creem 4 usuaris i un grup (roig blau verd groc)
+
+
+<img width="682" height="459" alt="image" src="https://github.com/user-attachments/assets/28e9915d-458e-4a1a-8fcd-4c7a3d823837" />
+<img width="548" height="309" alt="image" src="https://github.com/user-attachments/assets/47891d9a-24ce-419d-b586-67dd3be93c47" />
+
+
+Creem el grup Parchis i posem el roig i el blau al grup:
+
+
+<img width="534" height="130" alt="image" src="https://github.com/user-attachments/assets/cfd83cb2-c098-4dfb-b900-a17f18e1d514" />
+<img width="627" height="401" alt="image" src="https://github.com/user-attachments/assets/f2428aa3-61f3-40dd-9a59-d002a1e3049d" />
+<img width="625" height="388" alt="image" src="https://github.com/user-attachments/assets/dc1df568-db38-4ad0-a02b-903daa706901" />
+<img width="629" height="365" alt="image" src="https://github.com/user-attachments/assets/9d4aaa2e-5e14-41e2-8ed2-8afa1212c2a5" />
+<img width="798" height="37" alt="image" src="https://github.com/user-attachments/assets/f160466f-479e-4bf9-858e-42f84dbee6a8" />
+<img width="639" height="169" alt="image" src="https://github.com/user-attachments/assets/3ecb4f0c-53cd-4c83-91a0-5d6bfaf1aa93" />
+<img width="707" height="183" alt="image" src="https://github.com/user-attachments/assets/5745b758-ab04-46b5-8bbc-5c21d2a80f4d" />
+
+
+
+
+
+
+
 Part 2:
 CÒPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
 1. Teoria Còpies de Seguretat
 Explicació en taula:
 
 <img width="620" height="598" alt="image" src="https://github.com/user-attachments/assets/2454ada9-4801-4c8f-baf5-5b4a8d6ffdee" />
+
 
 
 
@@ -407,6 +436,7 @@ Tipus:
       
 
       
+
 
 
 
