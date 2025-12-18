@@ -373,6 +373,12 @@ Creem el grup Parchis i posem el roig i el blau al grup:
 <img width="707" height="183" alt="image" src="https://github.com/user-attachments/assets/5745b758-ab04-46b5-8bbc-5c21d2a80f4d" />
 <img width="605" height="462" alt="image" src="https://github.com/user-attachments/assets/c6b9fe81-df68-497b-928a-433f73036be7" />
 <img width="465" height="130" alt="image" src="https://github.com/user-attachments/assets/142ff04f-331c-4c27-a115-c8c84cb021d0" />
+<img width="591" height="428" alt="image" src="https://github.com/user-attachments/assets/219e3964-2057-47da-8086-f95dec001df7" />
+<img width="673" height="111" alt="image" src="https://github.com/user-attachments/assets/34dc23f2-9950-431c-b558-d12184531ed7" />
+<img width="567" height="400" alt="image" src="https://github.com/user-attachments/assets/516424a0-7198-414c-b551-56829193364d" />
+<img width="638" height="273" alt="image" src="https://github.com/user-attachments/assets/ec6fe668-fbd6-462e-b2b8-1f5593469e88" />
+<img width="744" height="272" alt="image" src="https://github.com/user-attachments/assets/ba84d9b8-08f0-46f0-9bd9-5741ad337f40" />
+<img width="744" height="272" alt="image" src="https://github.com/user-attachments/assets/9715cce8-87bd-46aa-bd8b-9ce6f40ebcdd" />
 
 
 
@@ -439,6 +445,7 @@ Tipus:
       
 
       
+
 
 
 
