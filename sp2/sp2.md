@@ -538,3 +538,29 @@ Ara obrim la carpeta que hem creat abans i hauriem de trobar la còpia que hem f
 
 <img width="661" height="214" alt="image" src="https://github.com/user-attachments/assets/f447fc93-a288-43fa-9b4d-5d1db040febd" />
 
+
+
+
+5. Teoria Automatització scripts, cron, anacron
+Script: fitxer executable q fa el q tu li havies ficat dins, depenent del tipus de fitxer pot ser amb un llenguatge o un altre. Automatitzen un munt de coses.
+Cron: (s’usa normalment per automatitzar tasques per a usuaris en particular en una data i una hora concrets i si en aquell moment l’ordinador està tancat la tasca es perd)no tenen interfície gràfica i serveixen per temporitzar 
+Anacron: i este es el mateix però la diferència és q la tasca no es perd pq si està tancat quan s’engega la recupera i l’executa
+Antigament anaven per separat però ara ja treballen conjuntament
+
+
+
+6. Pràctica automatització
+1. cron
+anacron
+
+
+
+<img width="755" height="105" alt="image" src="https://github.com/user-attachments/assets/ca083ad7-c913-4221-ab59-b2592b033464" />
+<img width="747" height="263" alt="image" src="https://github.com/user-attachments/assets/5f164ade-e59d-4a26-8c35-03fe7c8f59e2" />
+<img width="689" height="319" alt="image" src="https://github.com/user-attachments/assets/ef4e222b-cd67-4302-810b-e01ffdd7d76a" />
+<img width="745" height="340" alt="image" src="https://github.com/user-attachments/assets/e4634997-9478-4070-a15e-a089a458b19f" />
+<img width="163" height="140" alt="image" src="https://github.com/user-attachments/assets/6856f78d-7f03-4b8f-ab28-4cc10e8dccc1" />
+<img width="746" height="143" alt="image" src="https://github.com/user-attachments/assets/825f754b-0b87-437e-acea-15031c8852be" />
+
+
+
