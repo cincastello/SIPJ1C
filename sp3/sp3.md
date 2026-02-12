@@ -43,5 +43,10 @@ No tenim organització aixi q ens quedem amb el nom.
 Desconectem i tornem a conectar el cablejat per poder tenir la IP diferent.
 
 <img width="749" height="570" alt="image" src="https://github.com/user-attachments/assets/bc3d6e5b-b05e-44c6-9a7e-5fd3743d6a72" />
+<img width="758" height="65" alt="image" src="https://github.com/user-attachments/assets/57ac5690-a540-44c0-84fe-5ef369cb17bb" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/56e24069-467c-4cee-a6e0-bf852256a81b" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/40415b6a-598b-41f2-90ed-5a8ceaf7844c" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/5b292257-52ee-40ef-89f7-24255e8787f8" />
+
 
 
