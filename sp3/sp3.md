@@ -71,3 +71,48 @@ Fem reboot.
 
 <img width="610" height="121" alt="image" src="https://github.com/user-attachments/assets/9966a1c0-93f0-49d2-90da-202b411b4338" />
 
+
+Anem al server.
+
+<img width="552" height="461" alt="image" src="https://github.com/user-attachments/assets/e5bb6f46-dd1e-4ae2-8ac9-5741f227d35b" />
+
+Ho tenim creat.
+
+<img width="747" height="430" alt="image" src="https://github.com/user-attachments/assets/60df9712-2b36-4690-8403-4cff2f2d6a4c" />
+<img width="590" height="328" alt="image" src="https://github.com/user-attachments/assets/fa528e5a-45bf-4d20-838d-74288ed6fee0" />
+
+Canviem el domini del fitxer.
+
+<img width="692" height="605" alt="image" src="https://github.com/user-attachments/assets/f702b1ed-452e-45c3-822f-7698c4cfd45a" />
+
+
+Borrem del 1-13 pq tenen #.
+
+
+<img width="692" height="605" alt="image" src="https://github.com/user-attachments/assets/c6a40e21-9510-4711-a49b-0798226d60a4" />
+<img width="692" height="605" alt="image" src="https://github.com/user-attachments/assets/c69ecc49-2f45-4bf4-a935-674297c5af6e" />
+
+Si no volem que passe contrasenya fem W en mayuscula sinó en minuscula.
+
+<img width="752" height="363" alt="image" src="https://github.com/user-attachments/assets/b6e2b405-df78-4558-8221-cb580b5544f2" />
+
+És per afegir coses com users i groups.
+
+-xLLL = és un filtro per usar en el que estem fent natros.
+
+<img width="747" height="290" alt="image" src="https://github.com/user-attachments/assets/469c0404-f777-4046-8c69-f139828cfe71" />
+<img width="748" height="104" alt="image" src="https://github.com/user-attachments/assets/57ad2594-9bfa-46e8-8ff1-d7e825106fe8" />
+<img width="742" height="207" alt="image" src="https://github.com/user-attachments/assets/04656b2e-4ac5-4d03-9697-91156b1a6ac5" />
+<img width="692" height="238" alt="image" src="https://github.com/user-attachments/assets/a571d34c-954d-4b48-b2e3-aa41599934de" />
+
+No va perquè no hi ha.
+
+<img width="690" height="269" alt="image" src="https://github.com/user-attachments/assets/1af0a196-8f3b-4e96-8fc1-5c17fc6aff46" />
+<img width="690" height="269" alt="image" src="https://github.com/user-attachments/assets/8da6c703-38f8-4711-985f-766150a6f19b" />
+<img width="688" height="124" alt="image" src="https://github.com/user-attachments/assets/3fd7514c-ff82-40fd-ad08-dda316854206" />
+<img width="753" height="416" alt="image" src="https://github.com/user-attachments/assets/d9ab24ed-e6df-437b-9f2d-e82168b75085" />
+<img width="469" height="113" alt="image" src="https://github.com/user-attachments/assets/beb2f219-23be-4a09-8dcb-461715c7ab97" />
+<img width="757" height="306" alt="image" src="https://github.com/user-attachments/assets/59fefe7a-2a3a-4070-94a3-650a73452f86" />
+
+
+
