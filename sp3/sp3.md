@@ -113,6 +113,18 @@ No va perquè no hi ha.
 <img width="753" height="416" alt="image" src="https://github.com/user-attachments/assets/d9ab24ed-e6df-437b-9f2d-e82168b75085" />
 <img width="469" height="113" alt="image" src="https://github.com/user-attachments/assets/beb2f219-23be-4a09-8dcb-461715c7ab97" />
 <img width="757" height="306" alt="image" src="https://github.com/user-attachments/assets/59fefe7a-2a3a-4070-94a3-650a73452f86" />
+<img width="744" height="142" alt="image" src="https://github.com/user-attachments/assets/d7adaa37-e737-4faa-8219-11ee41de6cf5" />
+<img width="749" height="239" alt="image" src="https://github.com/user-attachments/assets/bb877c57-bb17-4d2d-b734-840d1596066a" />
+<img width="694" height="134" alt="image" src="https://github.com/user-attachments/assets/80bc37e0-fa5e-4aab-9234-fdba55ccfbcd" />
+
+Per treure professor i ficar-lo a un altre domini.
+
+<img width="747" height="71" alt="image" src="https://github.com/user-attachments/assets/b8aa63ea-5c02-4d48-9607-c68154a8b563" />
+<img width="587" height="355" alt="image" src="https://github.com/user-attachments/assets/95c23c9e-593a-49bc-bb16-775b5086358d" />
+<img width="734" height="141" alt="image" src="https://github.com/user-attachments/assets/a4dda691-b902-47cb-87dc-2cc5f5c71775" />
+<img width="557" height="361" alt="image" src="https://github.com/user-attachments/assets/77e44593-4dc9-42d9-9537-a4ec7e4cd559" />
+
+
 
 
 
