@@ -29,4 +29,13 @@ No tenim organització aixi q ens quedem amb el nom.
 <img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/5a4f2657-bbbe-47a9-bd75-c47eb65f4f68" />
 <img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/eb6c9a42-b6b2-46a1-875a-59243321cad1" />
 <img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/98898d62-0a0b-4bfb-811d-845786ee4c1e" />
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/c1e7f4ba-d8d6-429d-9c19-bbbec57c396b" />
+<img width="474" height="273" alt="image" src="https://github.com/user-attachments/assets/26a6c24c-0528-4336-8ea9-e762cfe48f97" />
+<img width="474" height="273" alt="image" src="https://github.com/user-attachments/assets/05ded866-0107-4094-a07b-300276834631" />
+<img width="474" height="273" alt="image" src="https://github.com/user-attachments/assets/68af22d7-2edd-4127-9ff7-d57aa816b457" />
+<img width="485" height="421" alt="image" src="https://github.com/user-attachments/assets/68d6889e-181e-4d48-83b3-fc95f2ea5471" />
+<img width="641" height="108" alt="image" src="https://github.com/user-attachments/assets/41c9ab47-187b-4253-a523-9a155ad6c4d8" />
+<img width="747" height="272" alt="image" src="https://github.com/user-attachments/assets/ee858d93-0045-495a-99bd-2443dca0cd2a" />
+<img width="578" height="771" alt="image" src="https://github.com/user-attachments/assets/6914262b-b354-4565-91fd-23b327fca7ea" />
+
 
