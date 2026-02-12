@@ -177,9 +177,33 @@ Instal·lem:
 
 
 <img width="735" height="256" alt="image" src="https://github.com/user-attachments/assets/0f5aec91-d2cc-481d-8db0-ae1d09d07449" />
+
+
+Ens connectem a proves:
+
+
 <img width="735" height="256" alt="image" src="https://github.com/user-attachments/assets/8f0fae7a-8a49-477e-b605-c9a226c5358f" />
+
+
+Comprovem que els colors als que els hi hem donat permisos i als que no funcionin correctament,
+
+
 <img width="658" height="532" alt="image" src="https://github.com/user-attachments/assets/64cd76bb-00d2-44b5-9f88-8a80c7743f7b" />
 <img width="314" height="133" alt="image" src="https://github.com/user-attachments/assets/9e34e39d-18a6-445d-85ba-0fe63b378b77" />
 
 Li donem a desmontar.
 
+
+<img width="640" height="521" alt="image" src="https://github.com/user-attachments/assets/344a0849-efb5-4d52-9655-468757df7c11" />
+<img width="465" height="133" alt="image" src="https://github.com/user-attachments/assets/8221b121-e4c7-4e6a-b2b9-b3eb7aa83458" />
+
+
+Amb el roig no ens deixa entrar ja que no li hem donat permisos per poder-ho fer abans.
+
+<img width="644" height="513" alt="image" src="https://github.com/user-attachments/assets/3fb8c8b5-4198-46ed-802c-e7e7c340cf16" />
+<img width="644" height="513" alt="image" src="https://github.com/user-attachments/assets/336897dc-23c3-42d3-b21b-2bc0fdce9ec1" />
+<img width="644" height="513" alt="image" src="https://github.com/user-attachments/assets/2db2af20-d320-471a-a05c-0d1f1489db8f" />
+<img width="644" height="513" alt="image" src="https://github.com/user-attachments/assets/9f49f82e-721c-4c20-a3ba-e0e5393c23fe" />
+
+
+Al groc li hem donat permis per entrar però no per poder editar res, per això ens surt aquest missatge.
