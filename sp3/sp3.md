@@ -47,6 +47,27 @@ Desconectem i tornem a conectar el cablejat per poder tenir la IP diferent.
 <img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/56e24069-467c-4cee-a6e0-bf852256a81b" />
 <img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/40415b6a-598b-41f2-90ed-5a8ceaf7844c" />
 <img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/5b292257-52ee-40ef-89f7-24255e8787f8" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/2b8ff6b9-cafd-4fb0-9d9c-beb4234195b9" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/df2ccbdc-e1b2-40cc-b233-b2af89d3c667" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/06948cb9-8891-486f-b943-66f39e46d653" />
+Fiquem la contrasenya.
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/7b389d17-8d65-405f-880c-e704769d2f72" />
+<img width="753" height="434" alt="image" src="https://github.com/user-attachments/assets/e73aa12f-eb6e-4b40-8cdb-96f415525606" />
 
+Per reconfigurar el paquet:
 
+<img width="656" height="26" alt="image" src="https://github.com/user-attachments/assets/261ba55d-ed09-43d4-864d-b75fe9963c81" />
+<img width="737" height="411" alt="image" src="https://github.com/user-attachments/assets/891fe649-ca5b-465a-80c5-0e596cd52c3e" />
+<img width="744" height="427" alt="image" src="https://github.com/user-attachments/assets/ec5f7b28-7382-4274-8503-27ce76f56d4b" />
+
+Per a q se li cree la home i se li assignen estos fitxers i carpetes a nous usuaris.
+
+<img width="747" height="429" alt="image" src="https://github.com/user-attachments/assets/5ae1d776-e86f-4f0b-849b-495b188c4d61" />
+<img width="726" height="84" alt="image" src="https://github.com/user-attachments/assets/5ccf4ee4-9c12-4115-870a-93ee63cb40dd" />
+<img width="691" height="137" alt="image" src="https://github.com/user-attachments/assets/ba1baabe-f9fd-4238-916c-dfdfa252e259" />
+<img width="525" height="54" alt="image" src="https://github.com/user-attachments/assets/87bbbb0f-979f-465a-8800-76acca726cb5" />
+
+Fem reboot.
+
+<img width="610" height="121" alt="image" src="https://github.com/user-attachments/assets/9966a1c0-93f0-49d2-90da-202b411b4338" />
 
