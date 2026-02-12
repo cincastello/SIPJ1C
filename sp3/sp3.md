@@ -18,4 +18,15 @@ Passem de automàtica(DHCP) a manual
 <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/01eb9b20-ab3c-4464-aefa-167db665e385" />
 <img width="443" height="338" alt="image" src="https://github.com/user-attachments/assets/71b527e2-7551-4b22-b337-ea2343d65341" />
 <img width="443" height="338" alt="image" src="https://github.com/user-attachments/assets/17f55c01-ecb2-46ef-9420-f26067a0d475" />
+<img width="588" height="282" alt="image" src="https://github.com/user-attachments/assets/9b24e528-a726-4562-bf07-c5e8d846d43f" />
+<img width="546" height="265" alt="image" src="https://github.com/user-attachments/assets/f0d3f806-5f8e-4409-abeb-353668e9c446" />
+<img width="546" height="265" alt="image" src="https://github.com/user-attachments/assets/cbf82ce3-0f57-4015-b703-531734b47846" />
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/304e8390-9f5f-4c9d-88c4-591be94767f9" />
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/2701be10-210f-4dcd-8019-cfe30ba4cdc6" />
+
+No tenim organització aixi q ens quedem amb el nom.
+
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/5a4f2657-bbbe-47a9-bd75-c47eb65f4f68" />
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/eb6c9a42-b6b2-46a1-875a-59243321cad1" />
+<img width="740" height="371" alt="image" src="https://github.com/user-attachments/assets/98898d62-0a0b-4bfb-811d-845786ee4c1e" />
 
