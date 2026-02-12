@@ -125,6 +125,61 @@ Per treure professor i ficar-lo a un altre domini.
 <img width="557" height="361" alt="image" src="https://github.com/user-attachments/assets/77e44593-4dc9-42d9-9537-a4ec7e4cd559" />
 
 
+## SERVIDOR SAMBA I NFS
 
 
+Els 2 serveixen per compartir arxius, recurssos, etc. 
+
+Samba deixa compatir impressores i fer l'autenticació a través(integrar) d’un LDAP però no es imprescindible.
+
+NFS funciona a nvll de host(IP).
+
+
+SAMBA:
+
+
+PART SERVER:
+
+
+Instal·lació:
+
+
+<img width="583" height="93" alt="image" src="https://github.com/user-attachments/assets/1cde4629-6909-4853-8c49-c5e4a41a5c03" />
+
+
+Creem proves i midifiquem
+
+
+<img width="603" height="220" alt="image" src="https://github.com/user-attachments/assets/70b983e6-10c9-4095-8cc9-d71befb210bc" />
+
+
+Fiquem els permisos i donem accesos
+
+
+<img width="619" height="506" alt="image" src="https://github.com/user-attachments/assets/04a991de-adf1-482b-a488-adb70078e17d" />
+<img width="568" height="249" alt="image" src="https://github.com/user-attachments/assets/7d304a7f-fc92-4b0c-8fdf-d46cbdc39005" />
+<img width="525" height="30" alt="image" src="https://github.com/user-attachments/assets/821569f9-1c66-4630-b1ba-63e10977f37c" />
+<img width="428" height="236" alt="image" src="https://github.com/user-attachments/assets/ea101d29-8f73-4153-bbc7-a063218a1fec" />
+<img width="551" height="50" alt="image" src="https://github.com/user-attachments/assets/6cd6c56b-9160-4ce2-91c9-ab65caadb86f" />
+<img width="698" height="442" alt="image" src="https://github.com/user-attachments/assets/a0bf8890-e4a7-4727-81f5-ce8fe59dc094" />
+<img width="741" height="194" alt="image" src="https://github.com/user-attachments/assets/40f8fb4e-912f-4c48-9a15-0ce6f2d2f875" />
+
+
+
+
+PART CLIENT:
+
+
+Instal·lem:
+
+
+<img width="741" height="194" alt="image" src="https://github.com/user-attachments/assets/29ab6647-059a-42e4-b4e5-652db317add4" />
+
+
+<img width="735" height="256" alt="image" src="https://github.com/user-attachments/assets/0f5aec91-d2cc-481d-8db0-ae1d09d07449" />
+<img width="735" height="256" alt="image" src="https://github.com/user-attachments/assets/8f0fae7a-8a49-477e-b605-c9a226c5358f" />
+<img width="658" height="532" alt="image" src="https://github.com/user-attachments/assets/64cd76bb-00d2-44b5-9f88-8a80c7743f7b" />
+<img width="314" height="133" alt="image" src="https://github.com/user-attachments/assets/9e34e39d-18a6-445d-85ba-0fe63b378b77" />
+
+Li donem a desmontar.
 
