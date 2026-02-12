@@ -37,5 +37,11 @@ No tenim organització aixi q ens quedem amb el nom.
 <img width="641" height="108" alt="image" src="https://github.com/user-attachments/assets/41c9ab47-187b-4253-a523-9a155ad6c4d8" />
 <img width="747" height="272" alt="image" src="https://github.com/user-attachments/assets/ee858d93-0045-495a-99bd-2443dca0cd2a" />
 <img width="578" height="771" alt="image" src="https://github.com/user-attachments/assets/6914262b-b354-4565-91fd-23b327fca7ea" />
+<img width="671" height="313" alt="image" src="https://github.com/user-attachments/assets/c23f7629-1d8b-43f4-b018-5d93f88738ba" />
+<img width="713" height="576" alt="image" src="https://github.com/user-attachments/assets/b48362f7-4c15-4b24-b181-96ac3f1f2b86" />
+
+Desconectem i tornem a conectar el cablejat per poder tenir la IP diferent.
+
+<img width="749" height="570" alt="image" src="https://github.com/user-attachments/assets/bc3d6e5b-b05e-44c6-9a7e-5fd3743d6a72" />
 
 
