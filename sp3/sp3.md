@@ -351,9 +351,40 @@ D’alli, desactivem <img width="34" height="29" alt="image" src="https://github
 
 Una vegada això canviat ho tornem a connectar.
 
-Entrem a la carpeta groga i anem a This PC
+<img width="574" height="256" alt="image" src="https://github.com/user-attachments/assets/c09f5558-4209-468c-a957-ec28669be5df" />
 
-<img width="745" height="570" alt="image" src="https://github.com/user-attachments/assets/dd80bd09-f449-44e2-ad65-16057c7e7ee1" />
+Busquem el panel de control i obrim la app.
 
-<img width="689" height="600" alt="image" src="https://github.com/user-attachments/assets/e63632ef-8b97-4ccb-99d8-053581474a53" />
+<img width="269" height="125" alt="image" src="https://github.com/user-attachments/assets/4a768ab7-cab0-468e-ae7b-390b29ad37a0" />
 
+Sel·leccionem 'small icons' per veure millor el contingut.
+
+<img width="199" height="37" alt="image" src="https://github.com/user-attachments/assets/15c11a05-f953-4465-b90f-b8951766538c" />
+
+Polsem aquest botó per entrar-hi.
+
+Una vegada dins cliquem aquest botó: <img width="235" height="39" alt="image" src="https://github.com/user-attachments/assets/b9a7307a-0e9d-4e26-90c1-e8a5f3cc290c" />
+
+<img width="232" height="79" alt="image" src="https://github.com/user-attachments/assets/e78400e5-48ff-4bcb-85c3-37dd6df88c4f" />
+
+Seleccionem el Servidor NFS i marquem les dos opcions de dins per que quedin en blau.
+
+<img width="107" height="40" alt="image" src="https://github.com/user-attachments/assets/152f2a17-a85c-45bb-aa29-055a82b61ac3" />
+
+Li donem a ok.
+
+<img width="711" height="514" alt="image" src="https://github.com/user-attachments/assets/4fadb480-1718-4e72-91a2-976ad571ef56" />
+
+Veurem això, ens demana reiniciar així que ho farem.
+
+Tornem a entrar i obrim la carpeta groga i anem a This PC
+
+<img width="711" height="514" alt="image" src="https://github.com/user-attachments/assets/f3dae33a-5411-4806-b4f5-6104805c489e" />
+
+Dalt, on fica This PC, ho canviarem per el nostre ip del server ubuntu
+
+<img width="347" height="40" alt="image" src="https://github.com/user-attachments/assets/2d074c7c-2072-455c-bc3a-304254196792" />
+
+Una vegada carregat hauriem de veure les nostres carpetes 
+
+<img width="552" height="128" alt="image" src="https://github.com/user-attachments/assets/f3220f94-ad93-4e11-96c3-453c18189396" />
