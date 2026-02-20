@@ -253,68 +253,90 @@ Al server:
 ## Exercicis Github
 
 <img width="695" height="520" alt="image" src="https://github.com/user-attachments/assets/acf38131-e2c9-44af-b34d-c93f9b67bff6" />
+
 Eliminem la bases de dades que tenimn abans de fer res més.
 
 <img width="754" height="223" alt="image" src="https://github.com/user-attachments/assets/d3a3d7d2-5446-42c3-9cca-3ce0a64591fd" />
+
 Ara hem ficat la informació del document a la nostra base de dades.
 
 <img width="436" height="762" alt="image" src="https://github.com/user-attachments/assets/2513b22b-3910-4722-ac42-598b871a7fc1" />
+
 Dades descarregades correctament.
 
 <img width="754" height="218" alt="image" src="https://github.com/user-attachments/assets/394e6428-0672-4027-aa74-16a6078ab337" />
+
 Afegim un usuari.
 
 <img width="372" height="104" alt="image" src="https://github.com/user-attachments/assets/3601c28a-6e4c-458e-821f-29c307f45eb6" />
+
 Afegim una ou nòmines.
 
 <img width="495" height="482" alt="image" src="https://github.com/user-attachments/assets/f22e10cd-9a50-4399-a315-589f241b4aed" />
 <img width="747" height="83" alt="image" src="https://github.com/user-attachments/assets/da7bba67-16cb-427b-ada0-5b0e7341dd63" />
+
 Afegim l’usuari Salamandra a la ou de nòmines.
 
 <img width="743" height="223" alt="image" src="https://github.com/user-attachments/assets/4ebd7903-f690-4877-b77e-a25dbec38038" />
+
 Hi ha 2 grups al domini gina.cat.
 
 <img width="753" height="181" alt="image" src="https://github.com/user-attachments/assets/58a7ec7f-aa08-44a0-9ea9-1fd12c2746f0" />
+
 Afegim a Sargantana al grup d’administració.
 
 <img width="757" height="121" alt="image" src="https://github.com/user-attachments/assets/b86e2e57-ae2a-41c1-9b51-d294ec33629b" />
+
 Afegim un nou camp a sergi i li modifiquem el cognom.
 
 <img width="743" height="70" alt="image" src="https://github.com/user-attachments/assets/3d87ba26-fc1e-4034-afba-1c8583492f60" />
+
 Hem modificat el cognom de Sergi i li hem afegit un correu.
 
 <img width="753" height="90" alt="image" src="https://github.com/user-attachments/assets/0c56ec2f-3477-4e8d-86a3-289abfc0db33" />
+
 Aquí veiem tots els empleats uo=rrhh.
 
 <img width="573" height="112" alt="image" src="https://github.com/user-attachments/assets/0db9d1ec-c2cd-4678-b773-c1c9f540446c" />
+
 Afegim això a un fitxer nou per eliminar el gidNumber del departament d'informàtica
 
 <img width="746" height="192" alt="image" src="https://github.com/user-attachments/assets/d691ad4d-6c26-47d9-8338-bc5c3f826ca2" />
+
 Aquí ens donem conte que hi ha atributs obligatoris que no es poden esborrar.
 
 <img width="750" height="264" alt="image" src="https://github.com/user-attachments/assets/a5889ee1-68cd-40a0-984f-fbcc1c57ae8b" />
+
 Hi ha 3 uo.
 
 <img width="440" height="132" alt="image" src="https://github.com/user-attachments/assets/0fcf9597-6b87-46be-a0c9-aa82bd0596fb" />
 <img width="747" height="31" alt="image" src="https://github.com/user-attachments/assets/b61e6d32-d643-4982-9aa6-1e6a9f93da43" />
+
 Hem modificat el nom de Xavier a Francesc Xavier i hem eliminat el nom anterior.
 
 <img width="502" height="151" alt="image" src="https://github.com/user-attachments/assets/8a97110d-3614-4861-843e-4517dfa65c45" />
 <img width="758" height="35" alt="image" src="https://github.com/user-attachments/assets/7ea446b2-76cc-4ab9-a593-b0b6dd1fa733" />
+
 Canviem a Salamandra de lloc.
 
 <img width="762" height="20" alt="image" src="https://github.com/user-attachments/assets/fd411600-335a-4719-99fe-2287bac2e4e5" />
 <img width="349" height="663" alt="image" src="https://github.com/user-attachments/assets/c224ff1c-7fbb-42f4-8c6a-5814c4f791ca" />
+
 Ja no tenim la uo nòmines.
 
 <img width="752" height="135" alt="image" src="https://github.com/user-attachments/assets/e6d78ef8-0aa4-4b05-8ee2-f97ba318d704" />
+
 Aquí podem veure els usuaris que formes part del grup administracio.
 
 <img width="751" height="43" alt="image" src="https://github.com/user-attachments/assets/ace3fab9-92da-4cac-8b1d-7eacf23caed7" />
+
 No hi ha ningú amb el uidNumber 1003.
 
 <img width="751" height="43" alt="image" src="https://github.com/user-attachments/assets/6941cf77-8c38-450b-b077-0dd09b248ad8" />
+
 No hi ha ningú amb el uidNumber igual o major a 1004 i que tingui un cognom que comença per R.
 
 <img width="745" height="311" alt="image" src="https://github.com/user-attachments/assets/ac173ac2-c21e-4293-86aa-1c46f0334001" />
+
 Ens surt el Sergi, encara que no ens deixa veure el seu cognom ja que porta accent.
+
