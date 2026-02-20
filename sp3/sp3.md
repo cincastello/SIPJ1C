@@ -340,3 +340,19 @@ No hi ha ningú amb el uidNumber igual o major a 1004 i que tingui un cognom que
 
 Ens surt el Sergi, encara que no ens deixa veure el seu cognom ja que porta accent.
 
+
+
+## Exercici Windows
+Anem a la carpeta, li donem a Network i activem la xarxa des de la notificació que ens indica que no estem connectats i li donem accés.
+
+D’alli, desactivem <img width="34" height="29" alt="image" src="https://github.com/user-attachments/assets/29d1e856-01fa-43f4-9179-90aa07cedab1" /> i li  tornem a donar clic dret per editar paràmetres de xarxa. I ho canviem a la següent.
+
+<img width="738" height="654" alt="image" src="https://github.com/user-attachments/assets/95cca17a-3e86-4ce3-8ea2-12e2785e66cf" />
+
+Una vegada això canviat ho tornem a connectar.
+
+Entrem a la carpeta groga i anem a This PC
+
+<img width="745" height="570" alt="image" src="https://github.com/user-attachments/assets/dd80bd09-f449-44e2-ad65-16057c7e7ee1" />
+
+<img width="576" height="628" alt="image" src="https://github.com/user-attachments/assets/ea8a5014-09cd-4794-8e12-1c7d5902a07e" />
