@@ -207,3 +207,42 @@ Amb el roig no ens deixa entrar ja que no li hem donat permisos per poder-ho fer
 
 
 Al groc li hem donat permis per entrar però no per poder editar res, per això ens surt aquest missatge.
+
+
+
+
+EL NFS ÉS PER COMPARTIR CARPETES DINTRE D'UNA XARXA INTERNA I LA IDENTIFICACIÓ SE FA S NIVELL DE LA MÀQUINA PER HOST
+<img width="577" height="171" alt="image" src="https://github.com/user-attachments/assets/c0bee7fe-61de-4af5-92b3-8f918fd1edfd" />
+<img width="577" height="171" alt="image" src="https://github.com/user-attachments/assets/7f113862-5e84-40e3-aa5d-de2ef3d4d82a" />
+
+Hem de mirar que surti en verd i activat.
+
+<img width="744" height="83" alt="image" src="https://github.com/user-attachments/assets/81cb6a3c-510c-468c-9c7e-d13d6ed7997d" />
+<img width="672" height="76" alt="image" src="https://github.com/user-attachments/assets/a73324ad-926d-4ff3-9558-54b31af5c8bd" />
+<img width="449" height="33" alt="image" src="https://github.com/user-attachments/assets/1340d22a-377a-4add-b72a-fb2b84aadefe" />
+<img width="737" height="172" alt="image" src="https://github.com/user-attachments/assets/af95eb9e-302c-483a-8113-9a77d345a0ad" />
+<img width="737" height="209" alt="image" src="https://github.com/user-attachments/assets/d2bb09c3-c8b2-41d0-b3b0-9db295e598ac" />
+<img width="549" height="113" alt="image" src="https://github.com/user-attachments/assets/b3513df9-c11f-4342-843d-c7456291dae9" />
+<img width="742" height="207" alt="image" src="https://github.com/user-attachments/assets/5bcd0ca2-acba-48e4-a373-3fdb93760903" />
+
+Afegim la última línea.
+
+<img width="547" height="159" alt="image" src="https://github.com/user-attachments/assets/bda8827e-7b30-4b46-93a3-8425bd038399" />
+<img width="468" height="125" alt="image" src="https://github.com/user-attachments/assets/41d363f8-d54e-4fd2-bf15-063803bf4e92" />
+
+Al client veiem:
+
+<img width="576" height="201" alt="image" src="https://github.com/user-attachments/assets/a44ac56c-9615-49e5-9287-58a74e16e7b7" />
+<img width="749" height="470" alt="image" src="https://github.com/user-attachments/assets/85d46ccb-f872-4d88-8f73-840ca90ca7d8" />
+<img width="745" height="202" alt="image" src="https://github.com/user-attachments/assets/75442279-67e3-4ff9-8441-15a0f467851c" />
+<img width="653" height="146" alt="image" src="https://github.com/user-attachments/assets/ac067b6b-13ea-48d4-9d5b-6deddbc4f133" />
+
+Al server:
+
+<img width="725" height="197" alt="image" src="https://github.com/user-attachments/assets/196c8df7-b6d1-4b98-ba12-ba3684608617" />
+<img width="464" height="38" alt="image" src="https://github.com/user-attachments/assets/ce2c5024-d025-4237-a889-675ed98cdb74" />
+<img width="737" height="134" alt="image" src="https://github.com/user-attachments/assets/59e7786d-14c5-4c4f-944d-6f45ebe870bd" />
+<img width="744" height="282" alt="image" src="https://github.com/user-attachments/assets/8825bbf2-a560-4a1b-9258-7453dc672a36" />
+<img width="744" height="263" alt="image" src="https://github.com/user-attachments/assets/9f47c0f4-2746-4ecc-8165-29d805f924be" />
+<img width="748" height="76" alt="image" src="https://github.com/user-attachments/assets/9b178850-bca2-4dbd-becf-13e5a756cf2f" />
+<img width="695" height="520" alt="image" src="https://github.com/user-attachments/assets/89220c8c-353e-4b7a-8935-4397f1c42c4f" />
