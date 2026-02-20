@@ -355,4 +355,5 @@ Entrem a la carpeta groga i anem a This PC
 
 <img width="745" height="570" alt="image" src="https://github.com/user-attachments/assets/dd80bd09-f449-44e2-ad65-16057c7e7ee1" />
 
-<img width="576" height="628" alt="image" src="https://github.com/user-attachments/assets/ea8a5014-09cd-4794-8e12-1c7d5902a07e" />
+<img width="689" height="600" alt="image" src="https://github.com/user-attachments/assets/e63632ef-8b97-4ccb-99d8-053581474a53" />
+
