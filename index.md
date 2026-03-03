@@ -18,4 +18,4 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md)
 
 ### [Sprint 2: Gestió de la Informació del Sistema i Administracions](sp2/sp2.md)  
 
-### [Sprint 2: Gestió de la Informació del Sistema i Administracions](sp3/sp3.md)  
+### [Sprint 3: Instal·lació domini LDAP i unir client al domini](sp3/sp3.md)  
