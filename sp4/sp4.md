@@ -122,7 +122,43 @@ Mirem el número que té el port que està escoltant (4096).
 
 
 
-<img width="597" height="66" alt="image" src="https://github.com/user-attachments/assets/f8449f81-c7c6-456e-889c-e8c5e28cb5ca" />
 <img width="598" height="39" alt="image" src="https://github.com/user-attachments/assets/762b407d-5592-42b6-a62d-5c56d5c19976" />
+<img width="597" height="66" alt="image" src="https://github.com/user-attachments/assets/f8449f81-c7c6-456e-889c-e8c5e28cb5ca" />
 
 
+
+Executem aquestes comandes (la segona en una altra terminal) en la que ha d’escoltar i anem a l’altra màquina i executem el següent per comprovar si funciona correctament:
+
+
+
+<img width="601" height="129" alt="image" src="https://github.com/user-attachments/assets/d88e3f8f-8a3c-4074-ad51-87ced174f9c0" />
+
+
+
+
+Ara anem a la màquina que envia els missatges i escrivim el que volem enviar:
+
+
+
+
+<img width="588" height="32" alt="image" src="https://github.com/user-attachments/assets/58a175d0-d35c-4ef1-a3de-6f5b85d42bdc" />
+
+
+
+
+
+Si ara tornem a la màquina receptora veurem això a la terminal:
+
+
+
+<img width="337" height="51" alt="image" src="https://github.com/user-attachments/assets/a0f4ec7a-7fbc-48d7-94dc-e40f926c0fc2" />
+
+
+
+
+I si anem a fitxers i obrim la carpeta de l'usuari veurem el fitxer .txt. que hem creat. L’obrim i veurem el missatge:
+
+
+
+
+<img width="589" height="200" alt="image" src="https://github.com/user-attachments/assets/827d1167-c7f3-45a3-a9ea-90b1fd1e6073" />
