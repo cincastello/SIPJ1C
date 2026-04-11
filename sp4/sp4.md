@@ -72,4 +72,26 @@ missatge
 <img width="598" height="27" alt="image" src="https://github.com/user-attachments/assets/cabe5aae-4ed6-4094-8bd8-15776e76b366" />
 <img width="611" height="100" alt="image" src="https://github.com/user-attachments/assets/8f693dfe-a6b5-4905-917d-615325dcd2c8" />
 <img width="582" height="97" alt="image" src="https://github.com/user-attachments/assets/1b9b2848-3bfe-41ec-aa1a-d1f544f89972" />
+<img width="582" height="97" alt="image" src="https://github.com/user-attachments/assets/ace75b5d-4b72-4458-afbf-2927d119e92b" />
+
+
+(només el del crit)
+
+
+<img width="603" height="180" alt="image" src="https://github.com/user-attachments/assets/489014ae-9e62-4562-9a25-be6f7940807e" />
+
+
+
+Sol hauria de funcionar la 5 (funciona)
+
+
+
+
+
+<img width="594" height="79" alt="image" src="https://github.com/user-attachments/assets/1026582b-1078-4863-b9db-9cad7c1b18c2" />
+<img width="495" height="43" alt="image" src="https://github.com/user-attachments/assets/27658209-2570-4869-afb0-e9233d6fdaf2" />
+<img width="603" height="186" alt="image" src="https://github.com/user-attachments/assets/fd221ddf-ea8d-41ea-89f9-339725216dd9" />
+
+
+
 
