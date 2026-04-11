@@ -95,3 +95,34 @@ Sol hauria de funcionar la 5 (funciona)
 
 
 
+### Exercici Logs 2 Maquines
+
+
+<img width="611" height="434" alt="image" src="https://github.com/user-attachments/assets/798ea6c0-4ded-4d6f-932d-1b1782aa0351" />
+
+
+
+
+Fiquem les dos màquines en Xarxa NAT I Xarxa interna.
+M’asseguro de que les dos màquines no tinguin la mateixa IP (10.0.2.15 i 10.0.2.4).
+
+
+
+<img width="592" height="227" alt="image" src="https://github.com/user-attachments/assets/7bfd5d64-103d-44a1-b7ea-4bd2a8b3421f" />
+
+
+<img width="604" height="104" alt="image" src="https://github.com/user-attachments/assets/255ca98c-1311-4556-bbbe-9b9b7eb03852" />
+
+
+
+
+Mirem el número que té el port que està escoltant (4096).
+
+
+
+
+
+<img width="597" height="66" alt="image" src="https://github.com/user-attachments/assets/f8449f81-c7c6-456e-889c-e8c5e28cb5ca" />
+<img width="598" height="39" alt="image" src="https://github.com/user-attachments/assets/762b407d-5592-42b6-a62d-5c56d5c19976" />
+
+
