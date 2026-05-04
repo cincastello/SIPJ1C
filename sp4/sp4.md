@@ -95,7 +95,7 @@ Sol hauria de funcionar la 5 (funciona)
 
 
 
-### Exercici Logs 2 Maquines
+### Exercici Logs dos Maquines
 
 
 <img width="611" height="434" alt="image" src="https://github.com/user-attachments/assets/798ea6c0-4ded-4d6f-932d-1b1782aa0351" />
@@ -162,3 +162,68 @@ I si anem a fitxers i obrim la carpeta de l'usuari veurem el fitxer .txt. que he
 
 
 <img width="589" height="200" alt="image" src="https://github.com/user-attachments/assets/827d1167-c7f3-45a3-a9ea-90b1fd1e6073" />
+
+
+
+
+### Exercici connexió dos màquines
+
+
+SSH:
+al client (el que vull accedir):
+
+
+<img width="599" height="331" alt="image" src="https://github.com/user-attachments/assets/7a9044ca-34f7-4067-91ee-e5c37f848401" />
+
+
+Instal·lem el x11vnc.
+
+
+<img width="509" height="41" alt="image" src="https://github.com/user-attachments/assets/021be492-f50d-4e92-ab0b-1f9e232cdb97" />
+
+
+<img width="468" height="92" alt="image" src="https://github.com/user-attachments/assets/bbbba1af-247e-447e-83b2-977925dc33fd" />
+
+
+Fiquem la contrasenya del VNC i la confirmem.
+
+
+<img width="497" height="550" alt="image" src="https://github.com/user-attachments/assets/902e4743-17c1-440b-b8f8-8b337022c543" />
+
+
+Sel·leccionem els següents botons que es poden veure a la captura.
+
+
+
+<img width="544" height="54" alt="image" src="https://github.com/user-attachments/assets/0175ddd3-d1aa-4d29-b851-cc55ac0655f7" />
+
+
+<img width="593" height="564" alt="image" src="https://github.com/user-attachments/assets/aaf39713-ad22-4130-a8c5-933d0cc13429" />
+
+
+
+Comentem el WaylandEnable=false (li treiem el #)
+
+I fem Reboot.
+
+
+
+
+<img width="594" height="246" alt="image" src="https://github.com/user-attachments/assets/f1cb0238-abb4-44d7-a080-3bdadab6e900" />
+
+
+
+<img width="588" height="430" alt="image" src="https://github.com/user-attachments/assets/8222c205-e02d-413b-b875-21232ac96ff5" />
+
+
+
+
+Ja ho tenim connectat.
+
+
+
+Al amfitrio:
+
+
+
+<img width="591" height="315" alt="image" src="https://github.com/user-attachments/assets/75a41e63-2512-4d61-b6ea-3a151bda77ee" />
