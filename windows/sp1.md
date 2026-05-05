@@ -57,6 +57,25 @@ Fase 2:
 
 
 
+<img width="558" height="441" alt="image" src="https://github.com/user-attachments/assets/5a9d69e2-7283-4b61-8cab-c8030838bd3d" />
+
+
+
+
+
+<img width="558" height="441" alt="image" src="https://github.com/user-attachments/assets/b64343a9-2754-4787-b5e9-96b800bdbc53" />
+
+
+
+
+<img width="279" height="76" alt="image" src="https://github.com/user-attachments/assets/06dd386b-4596-4c4a-82f7-364d9bf902b1" />
+
+
+
+
+<img width="159" height="124" alt="image" src="https://github.com/user-attachments/assets/7471ce1e-bafb-4722-b93c-dcf50caf4bc0" />
+
+
 
 <img width="391" height="201" alt="image" src="https://github.com/user-attachments/assets/a0d430e4-3c90-4b70-b318-f9e97c7e59fb" />
 
