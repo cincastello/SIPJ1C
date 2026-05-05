@@ -4,5 +4,5 @@
 Guia act1:
 
 Fase 1:
-Maquina windows10 creada, funciona correctament:
+Maquina Windows10 creada, funciona correctament:
 
