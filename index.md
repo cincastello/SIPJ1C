@@ -21,3 +21,5 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md)
 ### [Sprint 3: Instal·lació domini LDAP i unir client al domini](sp3/sp3.md)  
 
 ### [Sprint 4: MONITORITZACIÓ, CONNEXIÓ I LLICENCIAMENT](sp4/sp4.md)
+
+### [Sprint 1 Windows: WINDOWS](windows/sp1/sp1.md).
