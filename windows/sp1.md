@@ -128,3 +128,44 @@ Aquesta llicència és una versió de Windows temporal, normalment de 90 dies, p
 
 
 <img width="599" height="288" alt="image" src="https://github.com/user-attachments/assets/375a8d51-e018-4ae9-9032-9a4818fd13d9" />
+
+
+
+
+Fase 4:
+
+
+
+<img width="581" height="251" alt="image" src="https://github.com/user-attachments/assets/c71c9f32-550a-43ed-a7a6-4b1a70b8332a" />
+
+
+
+
+<img width="520" height="466" alt="image" src="https://github.com/user-attachments/assets/3cfd69a1-5af3-4511-a9a8-9cc3027fdef4" />
+
+
+
+El primer de tots és el Windows Boot Manager.
+
+
+
+<img width="494" height="195" alt="image" src="https://github.com/user-attachments/assets/6534e4ad-1a4e-47b5-b426-94df96ce48d3" />
+
+
+
+
+El sistema actual és Windows10.
+
+
+Instal·lat a la partició C.
+
+
+Espera 30 segons abans d’arrencar.
+
+
+Inicia Windows el fitxer \Windows\system32\winload.exe
+
+
+
+
+El Boot Manager és qui decideix quin sistema operatiu arrenca i el Boot Loader és el que carrega els fitxers del sistema operatiu a la memòria.
