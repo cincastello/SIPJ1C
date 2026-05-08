@@ -279,3 +279,50 @@ ipconfig → configuració IP
 
 
 systeminfo → dades completes del sistema
+
+
+
+
+
+Fase 7:
+
+
+
+<img width="301" height="428" alt="image" src="https://github.com/user-attachments/assets/92c0cd93-9194-4858-a01c-38b7688a0ea5" />
+
+
+
+<img width="281" height="271" alt="image" src="https://github.com/user-attachments/assets/22757fce-f1cd-4667-9716-370f3463c118" />
+
+
+
+
+Em baixo Sketch Board:
+
+
+
+<img width="594" height="441" alt="image" src="https://github.com/user-attachments/assets/a87527fc-c322-46d8-bc15-375157f4932b" />
+
+
+
+
+<img width="570" height="422" alt="image" src="https://github.com/user-attachments/assets/427a5cc9-944e-45bb-8325-6d5e1c0d2946" />
+
+
+
+
+Comprovat, funciona.
+
+
+
+<img width="440" height="270" alt="image" src="https://github.com/user-attachments/assets/ae13ab6f-6626-41c9-87e8-f422d902b67f" />
+
+
+
+
+
+<img width="419" height="178" alt="image" src="https://github.com/user-attachments/assets/af69d0c9-f968-439e-81c2-28fe8343203d" />
+
+
+
+
