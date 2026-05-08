@@ -187,3 +187,95 @@ Fase 5:
 
 
 <img width="554" height="234" alt="image" src="https://github.com/user-attachments/assets/984fdae7-ef40-45cd-9af1-dd203868704f" />
+
+
+
+
+Fase 6:
+
+
+
+<img width="543" height="125" alt="image" src="https://github.com/user-attachments/assets/2bb95bea-6041-4f7b-94bf-f9ea50885a1a" />
+
+
+
+<img width="437" height="310" alt="image" src="https://github.com/user-attachments/assets/8f234631-c7b9-48ea-b2d6-3f8c1c43db41" />
+
+
+
+<img width="232" height="40" alt="image" src="https://github.com/user-attachments/assets/e2f00a0d-4049-4263-8fb2-7a340a3a8731" />
+
+
+
+
+<img width="388" height="204" alt="image" src="https://github.com/user-attachments/assets/852704fc-f209-4ae8-8508-e52fe09ba19a" />
+
+
+
+
+<img width="547" height="678" alt="image" src="https://github.com/user-attachments/assets/979c2f94-18d9-43d6-b440-4b4182bb8576" />
+
+
+
+<img width="463" height="52" alt="image" src="https://github.com/user-attachments/assets/9a7d8a57-7b5a-4132-8485-daa7ab467ebe" />
+
+
+
+<img width="589" height="491" alt="image" src="https://github.com/user-attachments/assets/e8963645-b630-4fa2-893c-f01e51ba3afe" />
+
+
+
+<img width="229" height="80" alt="image" src="https://github.com/user-attachments/assets/cbd70437-9e53-4fbb-a990-f8f679924fde" />
+
+
+
+
+<img width="479" height="190" alt="image" src="https://github.com/user-attachments/assets/a6c9a156-84ff-4bfb-93c9-90e4bdab73c5" />
+
+
+
+
+<img width="480" height="169" alt="image" src="https://github.com/user-attachments/assets/81f689d4-021d-4ee9-8f55-871b7f748299" />
+
+
+
+
+<img width="477" height="643" alt="image" src="https://github.com/user-attachments/assets/0fb34ca6-447c-4176-b874-3fb8530b20d1" />
+
+
+
+
+<img width="317" height="311" alt="image" src="https://github.com/user-attachments/assets/d2a7fc2c-cd46-4544-8fd0-144b084f7cf4" />
+
+
+
+
+cls:
+
+
+
+<img width="175" height="105" alt="image" src="https://github.com/user-attachments/assets/9a4494fd-c29b-4a95-92cc-25cb0cf05c27" />
+
+
+
+
+<img width="600" height="540" alt="image" src="https://github.com/user-attachments/assets/d3d757ea-7a1c-4e97-a297-13aa37be29ad" />
+
+
+
+shutdown /s /t 0
+
+
+
+<img width="274" height="157" alt="image" src="https://github.com/user-attachments/assets/a856b2e5-90e9-4533-a28e-6f8ebf3e5fd9" />
+
+
+
+
+tasklist → processos en execució
+
+
+ipconfig → configuració IP
+
+
+systeminfo → dades completes del sistema
