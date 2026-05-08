@@ -169,3 +169,21 @@ Inicia Windows el fitxer \Windows\system32\winload.exe
 
 
 El Boot Manager és qui decideix quin sistema operatiu arrenca i el Boot Loader és el que carrega els fitxers del sistema operatiu a la memòria.
+
+
+
+
+
+Fase 5:
+
+
+
+<img width="149" height="103" alt="image" src="https://github.com/user-attachments/assets/128d4c1a-7d47-4208-b34f-9bfa517756dd" />
+
+
+
+<img width="555" height="137" alt="image" src="https://github.com/user-attachments/assets/8815fa9f-f162-43c4-8ba9-cad095a93b57" />
+
+
+
+<img width="554" height="234" alt="image" src="https://github.com/user-attachments/assets/984fdae7-ef40-45cd-9af1-dd203868704f" />
