@@ -93,3 +93,38 @@ Fase 2:
 
 <img width="332" height="642" alt="image" src="https://github.com/user-attachments/assets/a8a14f19-fdbe-42ef-b5a6-b1634391e3b8" />
 
+
+
+
+Fase 3:
+
+
+
+<img width="396" height="211" alt="image" src="https://github.com/user-attachments/assets/f83f69d4-27eb-4b04-b077-f1ec65edc4ca" />
+
+
+
+<img width="396" height="211" alt="image" src="https://github.com/user-attachments/assets/08a89ac5-189e-4101-9db2-f71abcd92315" />
+
+
+
+
+<img width="249" height="54" alt="image" src="https://github.com/user-attachments/assets/2cf10820-cd42-491f-8bd9-356bf5a805dd" />
+
+
+
+
+<img width="392" height="210" alt="image" src="https://github.com/user-attachments/assets/f3fdb2b3-fe2f-4c10-a7c4-578247485499" />
+
+
+
+Tinc TIMEBASED_EVAL CHANNEL com a llicència.
+
+
+
+Aquesta llicència és una versió de Windows temporal, normalment de 90 dies, pensada per a proves i entorns d'aprenentatge. No és una llicència definitiva ni de pagament. No és transferible i en caducar el sistema perd funcionalitats fins que s'introdueix una clau vàlida.
+
+
+
+
+<img width="599" height="288" alt="image" src="https://github.com/user-attachments/assets/375a8d51-e018-4ae9-9032-9a4818fd13d9" />
