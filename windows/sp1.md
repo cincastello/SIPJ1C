@@ -85,3 +85,7 @@ Fase 2:
 
 <img width="371" height="185" alt="image" src="https://github.com/user-attachments/assets/ee33d655-240f-458b-be47-d2e9b96aedee" />
 
+
+
+<img width="444" height="219" alt="image" src="https://github.com/user-attachments/assets/eab8dbc7-b52e-4ae1-b027-61a577eff151" />
+
