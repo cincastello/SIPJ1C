@@ -203,3 +203,186 @@ Creem un altre disc:
 
 
 <img width="391" height="206" alt="image" src="https://github.com/user-attachments/assets/2458e614-7c78-4929-9e96-3c3409127cf5" />
+
+
+
+
+<img width="565" height="472" alt="image" src="https://github.com/user-attachments/assets/16123880-4008-4d83-9105-8e43f228ac8b" />
+
+
+
+
+<img width="565" height="472" alt="image" src="https://github.com/user-attachments/assets/28914ab2-775b-41b6-962b-e525c45024f0" />
+
+
+
+
+<img width="565" height="472" alt="image" src="https://github.com/user-attachments/assets/999aa0b3-c9d5-494c-958a-83cf5df13194" />
+
+
+
+
+Alumne1:
+
+
+
+<img width="559" height="132" alt="image" src="https://github.com/user-attachments/assets/31f8257e-2618-4e44-803c-80aa8515004d" />
+
+
+
+
+Alumne2:
+
+
+
+<img width="559" height="132" alt="image" src="https://github.com/user-attachments/assets/cb88578b-ee67-4f86-856b-4c809c9d9a4f" />
+
+
+
+
+
+### Fase 4: 
+
+
+
+Tot verificat i comprovat de que s’ha fet correctament i funciona com a les captures.
+
+
+
+
+### Fase 5:
+
+
+
+<img width="595" height="346" alt="image" src="https://github.com/user-attachments/assets/8bff6ee1-5305-4700-86c7-170118637dd6" />
+
+
+
+
+<img width="552" height="32" alt="image" src="https://github.com/user-attachments/assets/ecc5b0e8-889f-4fc1-b98c-a0a308415e1d" />
+
+
+
+
+Alumne1:
+
+
+
+<img width="556" height="337" alt="image" src="https://github.com/user-attachments/assets/9222cdf7-c00c-4069-a6fc-5b47761f081c" />
+
+
+
+
+
+<img width="296" height="25" alt="image" src="https://github.com/user-attachments/assets/afcc946b-0e64-4e2f-a453-664d77c7180e" />
+
+
+
+
+
+<img width="562" height="104" alt="image" src="https://github.com/user-attachments/assets/74276e11-5da7-4923-983f-7af6b6f8fab3" />
+
+
+
+
+<img width="353" height="137" alt="image" src="https://github.com/user-attachments/assets/fb9a5f1d-02c9-4fe6-82c4-b22c07f0a778" />
+
+
+
+
+A alumne2 ja no apareixen:
+
+
+
+
+<img width="594" height="146" alt="image" src="https://github.com/user-attachments/assets/f480c1b4-e25f-44d0-9b47-0f56f0da6301" />
+
+
+
+
+Prova controlada:
+
+
+
+<img width="373" height="41" alt="image" src="https://github.com/user-attachments/assets/85d0273e-9bf1-4cd7-b7a8-4351c0027094" />
+
+
+
+
+<img width="581" height="400" alt="image" src="https://github.com/user-attachments/assets/0d953c60-d26e-424a-9175-57e0a0d36268" />
+
+
+
+
+<img width="581" height="400" alt="image" src="https://github.com/user-attachments/assets/33f92080-32d0-42c8-953a-eead93aa0b28" />
+
+
+
+
+
+### Fase 6:
+
+
+
+<img width="305" height="160" alt="image" src="https://github.com/user-attachments/assets/0d620169-62c3-429c-845d-2f7e1eca3f79" />
+
+
+
+<img width="208" height="41" alt="image" src="https://github.com/user-attachments/assets/2fd4d2d7-5566-4675-b166-873c2d521578" />
+
+
+
+<img width="458" height="234" alt="image" src="https://github.com/user-attachments/assets/fabded90-d2f6-4fcc-a5ad-ef76b1484f0f" />
+
+
+
+<img width="349" height="307" alt="image" src="https://github.com/user-attachments/assets/160d765f-0d40-4bce-ac21-2cabe32b68e7" />
+
+
+
+
+<img width="339" height="53" alt="image" src="https://github.com/user-attachments/assets/02efaae4-7f8b-4091-9c35-3bf93134dc55" />
+
+
+
+Alumne1:
+
+
+
+<img width="375" height="397" alt="image" src="https://github.com/user-attachments/assets/230b33e7-cd6a-4d9a-ba47-e7eeb82a30d5" />
+
+
+
+
+S’ha guardat.
+
+
+
+<img width="432" height="246" alt="image" src="https://github.com/user-attachments/assets/ae72f1d1-cf77-4387-b725-dabe30643a35" />
+
+
+
+
+<img width="562" height="63" alt="image" src="https://github.com/user-attachments/assets/224ec049-401d-4de1-a9d8-2a461629dc7b" />
+
+
+
+
+Amb el Alumne2 el podem veure (veiem la carpeta 22 que he creat):
+
+
+
+
+<img width="351" height="162" alt="image" src="https://github.com/user-attachments/assets/f5834c1a-8253-4125-8882-bc41940f15ed" />
+
+
+
+
+Però no podem crear ni editar
+
+
+
+
+<img width="560" height="222" alt="image" src="https://github.com/user-attachments/assets/e79362d0-6654-4833-a7e9-5757d6d53abe" />
+
+
