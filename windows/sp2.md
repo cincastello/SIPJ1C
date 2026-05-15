@@ -153,3 +153,53 @@ Creem un altre disc:
 
 
 
+<img width="538" height="426" alt="image" src="https://github.com/user-attachments/assets/73c727ad-d833-4f86-9610-9c830a96422f" />
+
+
+
+
+<img width="538" height="426" alt="image" src="https://github.com/user-attachments/assets/c86bfcf9-be9d-4188-8e5f-321c921ce3f1" />
+
+
+
+
+<img width="580" height="463" alt="image" src="https://github.com/user-attachments/assets/dff77bc6-8cf5-4098-be07-e333ab8243ed" />
+
+
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/1b9c69e2-0a9d-44f4-9325-98c320861caf" />
+
+
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/9fed3e89-af00-41b4-818b-98dddb95945a" />
+
+
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/1fb47aa4-f141-4621-9f6c-68dac3780cd7" />
+
+
+
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/a04261c1-978d-4044-8eb0-2d857aa224d3" />
+
+
+
+
+<img width="274" height="111" alt="image" src="https://github.com/user-attachments/assets/53824bc9-a0d2-4285-ac45-41df5348ecf6" />
+
+
+
+
+<img width="574" height="103" alt="image" src="https://github.com/user-attachments/assets/3bea4105-90f3-4fb4-95f6-b1bebc0c0299" />
+
+
+
+<img width="585" height="437" alt="image" src="https://github.com/user-attachments/assets/2e789bb6-2f3d-4ddf-9f5d-74e7271f018e" />
+
+
+
+
+<img width="391" height="206" alt="image" src="https://github.com/user-attachments/assets/2458e614-7c78-4929-9e96-3c3409127cf5" />
