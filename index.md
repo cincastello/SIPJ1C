@@ -22,4 +22,6 @@ El contenido está bajo licencia [Creative Commons BY-NC-SA 4.0 INT](LICENSE.md)
 
 ### [Sprint 4: MONITORITZACIÓ, CONNEXIÓ I LLICENCIAMENT](sp4/sp4.md)
 
-### [Sprint 1 Windows: WINDOWS](windows)
+### [Sprint 1 Windows: WINDOWS](windows/sp1.md)
+
+### [Sprint 2 Windows: WINDOWS](windows/sp2.md)
