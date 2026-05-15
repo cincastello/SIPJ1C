@@ -1,6 +1,6 @@
 ## WINDOWS 2
 
-Fase 1:
+### Fase 1:
 
 
 
@@ -22,6 +22,134 @@ Fase 1:
 
 
 Li donem a nuevo volumen simple.
+
+
+<img width="448" height="613" alt="image" src="https://github.com/user-attachments/assets/3130a34d-6fca-4093-bc95-30dc884285fd" />
+
+
+
+
+<img width="419" height="254" alt="image" src="https://github.com/user-attachments/assets/b55939e3-5148-4ba5-b210-92f4b961b3ff" />
+
+
+
+
+<img width="151" height="82" alt="image" src="https://github.com/user-attachments/assets/e74fd449-1c22-4e83-a06e-30d6e56708ba" />
+
+
+
+
+Per a l’altra partició usem l’espai restant:
+
+
+
+
+
+<img width="427" height="466" alt="image" src="https://github.com/user-attachments/assets/f7f7e700-1ce0-4658-b524-320ee4e736ff" />
+
+
+
+
+
+<img width="421" height="255" alt="image" src="https://github.com/user-attachments/assets/84d0aba4-04e2-4728-ac8d-a77dfe5145d7" />
+
+
+
+
+
+<img width="421" height="255" alt="image" src="https://github.com/user-attachments/assets/ad9e941f-9b79-4585-a0eb-d97f3b7f6fd7" />
+
+
+
+
+<img width="603" height="292" alt="image" src="https://github.com/user-attachments/assets/72f189c5-c192-4122-b30b-99d612c7a6d9" />
+
+
+
+
+<img width="579" height="271" alt="image" src="https://github.com/user-attachments/assets/4f30913d-5415-4b76-a455-9850ab73e4fe" />
+
+
+
+<img width="373" height="100" alt="image" src="https://github.com/user-attachments/assets/90fd6d1f-10fb-46a6-92b7-4f83b66d9442" />
+
+
+
+
+### Fase 2:
+
+
+
+Fem clic dret a la partició de dades i anem a Propietats, després Cuota.
+
+
+
+<img width="360" height="489" alt="image" src="https://github.com/user-attachments/assets/6409051e-040b-422d-92d3-ffb10878e53a" />
+
+
+
+
+Fem lusrmgr.msc. Anem a Usuaris → Nou usuari:
+
+
+
+<img width="405" height="371" alt="image" src="https://github.com/user-attachments/assets/bb1978d7-ca51-4b07-8274-86e195fa74d4" />
+
+
+
+
+<img width="405" height="371" alt="image" src="https://github.com/user-attachments/assets/37b6fce8-55df-4a0b-9ad4-593cf6a42d6d" />
+
+
+
+
+<img width="456" height="90" alt="image" src="https://github.com/user-attachments/assets/31c16b63-cce3-48ba-85b4-2bbdbe9acc55" />
+
+
+
+
+Anem a Grups i amb botó dret fem un de nou. Agreguem els usuaris.
+
+
+
+<img width="413" height="252" alt="image" src="https://github.com/user-attachments/assets/2fead968-2d61-4bd2-8af2-9ab241f4ba84" />
+
+
+
+Iniciem sessió com alumne1:
+
+
+
+<img width="346" height="330" alt="image" src="https://github.com/user-attachments/assets/eb3c252d-20d4-4fd2-a420-ee542a2a2f5e" />
+
+
+
+
+<img width="541" height="485" alt="image" src="https://github.com/user-attachments/assets/7d419e03-301a-4c99-8cf8-ecaa1d658c10" />
+
+
+
+
+<img width="480" height="287" alt="image" src="https://github.com/user-attachments/assets/770f9ae0-0935-45e6-9995-744d55669817" />
+
+
+
+
+### FASE 3:
+
+
+
+Creem un altre disc:
+
+
+
+<img width="588" height="348" alt="image" src="https://github.com/user-attachments/assets/d460c4cf-2533-4bea-a72a-6d91b635a2ce" />
+
+
+
+
+<img width="258" height="297" alt="image" src="https://github.com/user-attachments/assets/60dfd796-c818-4d47-acaa-44d2e158cf9a" />
+
 
 
 
