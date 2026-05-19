@@ -1,3 +1,12 @@
+## WINDOWS 4
+
+### Fase 1:
+
+
+
+
+
+
 <img width="350" height="355" alt="Captura de pantalla de 2026-05-19 11-44-39" src="https://github.com/user-attachments/assets/00080b61-78eb-4dc0-89b0-03e75195f453" />
 
 
